@@ -83,6 +83,38 @@ This is a portfolio project setup for junior growth marketing specialist role.
 * | 8 | Koka Sexton | B2B SaaS Demand Gen Consultant | https://www.linkedin.com/in/kokasexton 
 * | 9 | Obaid Durrani | Content Strategist, Clay | https://www.linkedin.com/in/obaidbot 
 * | 10 | Amanda Natividad | VP Marketing, SparkToro | https://www.linkedin.com/in/amandanat 
+
+**Why Each Expert Was Chosen**
+
+**1. Richard van der Blom**
+Chosen because he publishes the only data-driven annual LinkedIn Algorithm Insights Report backed by large-sample research from real user interactions. He is the founder of Just Connecting HUB and has trained 300,000+ B2B professionals across 900+ companies. No other voice on this list has more raw data about how LinkedIn actually works.
+
+**2. Dave Gerhardt**
+Chosen because he scaled Drift to a $1B exit and Privy to a $100M+ acquisition using content-led growth strategies and then built Exit Five, the largest community for B2B marketers, using the same LinkedIn organic approach he teaches. His own LinkedIn presence is a live proof of concept of everything he publishes.
+
+**3. Ross Simmonds**
+Chosen because he runs Foundation, a B2B content marketing agency working with brands like Canva, Bitly and Snowflake. He coined the phrase "Create once, distribute forever" which is a foundational principle for LinkedIn organic strategy. He also built Distribution.ai, meaning he doesn't just teach content distribution, he built a software product around it.
+
+**4. Chris Walker**
+Chosen because he built his entire business pipeline through organic LinkedIn content and dark social before anyone else was talking about it. He then built Refine Labs into a leading demand generation agency for SaaS companies and now runs Passetto. His LinkedIn posts are consistently cited by other B2B marketers as the most data-driven takes on modern GTM strategy.
+
+**5. Justin Welsh**
+Chosen because he is the clearest proof point that LinkedIn organic content alone can build a scalable business. He went from CCO of PatientPop (scaled to $50M ARR) to building a $5M+ one-person business using only LinkedIn. He publishes his exact systems publicly, making him one of the most transparent practitioners on this list.
+
+**6. Peep Laja**
+Chosen because he brings a unique angle to LinkedIn content strategy he frames content not as a posting exercise but as a positioning and messaging tool. As founder of Wynter (B2B messaging research platform) and CXL (marketing education company), his advice is grounded in actual data about what messaging resonates with buyers, not guesswork.
+
+**7. Lara Acosta**
+Chosen because she built from zero to the #1 female LinkedIn creator in the UK in under two years using a documented framework called SLAY. She now runs LA Digital, a LinkedIn content agency. She represents the most recent and fastest documented case study of systematic organic LinkedIn growth on this list.
+
+**8. Koka Sexton**
+Chosen because he is one of LinkedIn's earliest Social Selling evangelists and he worked at LinkedIn itself before moving into B2B SaaS consulting. This gives him a uniquely inside perspective on how the platform is designed to work for B2B companies, which no other expert on this list has.
+
+**9. Obaid Durrani**
+Chosen because he created the Easy Mode content framework now adopted by 20+ SaaS companies and architected HockeyStack's LinkedIn and owned media strategy, widely considered one of the most creative B2B brand builds in martech. He represents the next generation of practitioner-led B2B content thinking that goes beyond traditional LinkedIn advice.
+
+**10. Amanda Natividad**
+Chosen because she coined the term "zero-click content", a framework that directly applies to LinkedIn organic strategy where content must deliver full value without requiring a link click. As VP of Marketing at SparkToro she leads an active marketing team and teaches from live campaigns. Her newsletter has 50,000+ subscribers with a 40% open rate, proving her content frameworks actually work in practice.
  
  
 **Notes**
