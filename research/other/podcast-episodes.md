@@ -1,6 +1,6 @@
-\ Relevant Podcast Episodes
+ Relevant Podcast Episodes
 
-\ Research Topic: LinkedIn Organic Content Strategy for B2B SaaS
+ Research Topic: LinkedIn Organic Content Strategy for B2B SaaS
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-\ 1. Chris Walker — Revenue Vitals
+ 1. Chris Walker — Revenue Vitals
 
 Link: https://www.refinelabs.com/podcasts
 
@@ -57,7 +57,7 @@ Relevant Episodes to explore:
 
 
 
-\ 2. Dave Gerhardt — Exit Five Podcast
+ 2. Dave Gerhardt — Exit Five Podcast
 
 Formerly: B2B Marketing Leaders Podcast
 
@@ -71,7 +71,7 @@ day-to-day realities of building a B2B brand, managing marketing KPIs, and stand
 
 
 
-Why relevant to this research:\\
+Why relevant to this research:\
 
 Exit Five is the largest community for B2B marketers. Gerhardt consistently covers LinkedIn organic content strategy, founder
 
@@ -98,7 +98,7 @@ Relevant Episodes to explore:
 
 
 
-\ 3. Peep Laja — How to Win
+ 3. Peep Laja — How to Win
 
 Link: https://howtowin.transistor.fm/
 
@@ -135,7 +135,7 @@ Relevant Episodes to explore:
 
 
 
-\ 4. Ross Simmonds — Create Like the Greats
+ 4. Ross Simmonds — Create Like the Greats
 
 Link: https://open.spotify.com/show/3xtAETor7wKlNEVrH8OPAF
 
@@ -174,7 +174,7 @@ Relevant Episodes to explore:
 
 
 
-\ Summary Table
+ Summary Table
 
 
 
