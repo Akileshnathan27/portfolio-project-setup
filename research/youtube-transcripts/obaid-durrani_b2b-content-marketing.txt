@@ -1,0 +1,105 @@
+Welcome back to the Evolve Sales Leader, recorded live every Friday right here on LinkedIn. I’m Jonathan Fisher. Many of today’s most effective marketing campaigns have one thing in common: they all have a very well-structured content strategy at their core. But what does that mean, and how can you apply it to your business development efforts?
+
+To discuss this topic in detail, we have with us today Obed Condorrani. Obed is a marketing expert and prominent online thought leader with a background as a creative director and content marketing specialist for several prominent tech startups. Obed is the co-founder of Easy Mode, a marketing consultancy, and he also co-hosts the Cheat Codes podcast. In our conversation, we’re going to cover what it even means to make good content, how you can generate the greatest audience response, and the exact steps you can take to execute a content marketing strategy that will absolutely crush it. Obed, great to have you on the show today. Welcome.
+
+Thank you very much, Jonathan. I really appreciate that. It’s awesome to be here. I’m super excited.
+
+Premise
+
+The premise today is we’re going to tell the listener exactly how to build a fantastic content marketing strategy. Tell us first of all: how did you arrive at the insights you will be sharing with the listener?
+
+It’s been a few years in the making. About four to five years ago, I used to run a content marketing agency that specialized in 2D animation. So, on one hand, we would do content strategy, and on the other, we would do animated explainer videos and brand art styles and things like that. So, in that time I worked with a ton of different SaaS clients, and I spoke to a lot of different leaders on topics like creativity and what it means to make good content and whatnot. From there, I joined Refined Labs as Associate Creative Director, and one of my main responsibilities was to come up with creative strategies with our SaaS clients. So just based on these last few years, I’ve been able to pull together some insights on that. And then there was a time period that I dedicated to just analyzing high-performing content assets to see what variables they had in common and how we as marketers could sort of emulate that content.
+
+Framework Overview
+
+In your analysis, no doubt you’ve seen the good, the bad, and the ugly. Are a lot of companies getting it wrong out there? In your view?
+
+I wouldn’t say they’re getting it wrong. I would say that a lot of companies are afraid to sort of try and really give it the time that it’s due and give it the effort and investment that it’s due. I think a lot of companies want to go this route, and even when leadership is bought in—when senior managers and the marketing team and the creators are bought in—but if you know, it always comes back to the ROI situation: are we seeing some sort of ROI on this? I’ve seen a lot of companies just pull the plug on these types of campaigns within two to two-and-a-half months. You have to be able to give it the time that it’s due. And the other thing I see companies do wrong is they jump to certain types of content before other types of content are well established, and we’ll dive into that today: top-down content, middle-out content, and bottom-up content. A lot of companies will try to shoot for that bottom-up content before the other two are established.
+
+Mindset, Purpose, Strategy
+
+I’m looking forward to getting those terms defined for the listener. What I’m hearing you say is that there are some good things happening in marketing; there may be some missed opportunities, and it requires setting expectations properly to engage in the right way and to get the best results from a true content-based marketing campaign. Is that kind of what you’re saying?
+
+Absolutely. A good, comprehensive content marketing strategy will serve different purposes, so you have to define what those purposes are beforehand, before you could even get into tactics or the strategy. There’s a lot to unpack here, which we’ll dive into after this bit.
+
+Framework: Eight Parts
+
+I’ve created a framework with my colleague Todd Klauser. We’ve broken it down into eight parts: Mindset, Purpose, Strategy, Ideation, Creation, Distribution, Performance, and Iteration. We’re a bit limited on time in terms of diving deep on all of these parts, so I’m going to go over the parts you can take away and implement right away after this event: Mindset, Purpose, and Strategy. Let’s jump into Part One: Mindset.
+
+Part One: Mindset
+
+This is to help you and your marketing team, your leadership team, get into the mindset of content creators. The purpose of this entire framework is to help companies build sustainable media engines through in-house creators. The first part of this framework is Mindset, which sets out to provide an answer for the question: What is good content? You hear it all the time, right? Just make good content. But what does that even mean?
+
+So, to figure it out, I asked myself: What is one content asset or one type of content that we would all agree on that is good content? So I thought: Super Bowl commercials—everyone loves them. But why, right? I gave that some thought and found three attributes: they usually show you something new or reveal something, so they’re insightful; they’re usually funny or have some emotional appeal, so they’re entertaining; and they’re usually when they do something different or build these commercials on really creative or unique concepts, so they’re interesting. In other words: insightful, entertaining, and interesting.
+
+In the B2B SaaS context, you could have a great blog post or a great LinkedIn post, a video of you talking about something—so long as you’re providing insightful substance, that could be content. On the other end of the spectrum, you have content with very high production costs, like corporate-style reenactments or ads, but the key is how you present it.
+
+To sort content, we break it into three groups: Type 1, Type 2, and Type 3. Type 1 content is your insightful substance (blogs, LinkedIn posts, podcasts). Type 2 content is insightful substance presented in an interesting format (animated explainers, infographics like the Periodic Table of SEO). Type 3 is insightful substance presented in an interesting format and built on an entertaining concept (commercials, funny skits, marketing songs). The more you see content this way, the easier it is to identify what makes high-performing assets.
+
+How to Use Type Classifications
+
+Would this be a way to structure your workflow? Begin with insightful substance, then look for ways to present it in a more interesting format, and then raise the bar with entertaining concepts? And would this translate to budgeting or asset complexity? Yes, that’s one way to use it. For example, you could have a straightforward LinkedIn post as Type 1, create a live-stream video while you play a video game and discuss the topic as Type 2, and even write rap songs about the topic as Type 3. You can create multiple, very different content assets from one topic rather than just repurposing a single blog post into various formats.
+
+Important caveat: This isn’t a progression system where you must move from Type 1 to Type 2 to Type 3. It depends on your goals, objectives, timeline, and resources. Some topics may require Type 1 only; others may benefit from Type 2 or Type 3.
+
+Production Value and Brand Fit
+
+What about the tension between casual content and a carefully crafted brand? And can low-budget pieces still align with a strong brand?
+
+It’s a both/and situation. You shouldn’t start with entertaining content before you have strategic, narrative, and identity foundations. The latter is Part Two: Purpose. In Part Two, we cover a progression system: Top-Down, Middle-Out, and Bottom-Up content. This helps you map content to the audience at different levels of an organization, from leaders to implementers to end users, ensuring you align your content with your narrative while respecting brand guidelines and resource constraints.
+
+Purpose
+
+Part Two is Purpose. Before you get into tactics, you must understand the purpose behind all the content you’ll be creating. We have three purposes:
+
+Top-Down Content: Content aimed at reaching leaders and decision-makers who can drive company-wide change. Formats: podcasts, webinars, etc.—narrative-driven content.
+Middle-Out Content: Content aimed at the people within the target organization who will tactically implement change (e.g., SDR managers, heads of customer success).
+Bottom-Up Content: Content aimed at end users within the target organization who will drive awareness and admiration from the ground up (e.g., entertaining or relatable content that supports product-led growth).
+This framework helps you define and segment your audience more precisely than traditional buyer personas, and it helps marketing support the sales team with content tailored to the actual day-to-day challenges of different roles within target organizations.
+
+Audiences and Audience Segmentation
+
+Top-Down: Leaders and decision-makers who can drive change. Middle-Out: People who will implement changes within the organization. Bottom-Up: End users who will drive awareness and adoption.
+
+This approach helps you map who you should be talking to and what content will reach them, and it helps you build a more precise audience profile for your campaigns.
+
+Audience and Objectives Alignment
+
+Your audience segmentation should reflect both the people you are connected with and the people you are trying to reach as a company. For example, if your end users are SAS account executives, your LinkedIn feed should reflect that audience, not just other marketers. Your objectives should reflect the goals across the organization—marketing, sales, customer success, product, etc.—and content should align with those goals from the outset.
+
+Five Prerequisites of Ideation
+
+Part Three: Strategy includes two sections: The Five Prerequisites of Ideation and The Realm of Relevancy.
+
+The Five Prerequisites of Ideation (deep understanding required of five areas)
+
+Your Product: What is it? What does it do? Who does it help? How does it help? Do you know all the features? Can you show someone how to use it?
+Your Narrative: What is it? Why is it needed? How do we adopt it? How do we adapt to it? Do you have examples? Do you have research to back it up?
+Your Audience: Who are they? What are their challenges and goals? What platforms do they use? What are their actual interests? What segments make up your audience?
+Your Objectives: What are your business objectives, marketing objectives, sales objectives, customer success objectives, product objectives? You should know everyone’s objectives.
+Five Different Content Formats: Can your team create a wide range of different content assets (animated explainer videos, podcast episodes, infographics, commercials, blog posts, etc.)? Or are you stuck with a narrow format (ebook, blog post, newsletter)?
+Realm of Relevancy
+
+This is a bridge that helps map your strategic narrative to everyday content topics. It helps embed the strategic narrative into your day-to-day content so that it’s not just a one-off piece but a living, consistent narrative across formats and channels.
+
+How to Use Ideation Prerequisites
+
+If you don’t have a deep understanding of your product, narrative, audience, objectives, or formats, you’ll get stuck with ideation. If you do have those, you can start ideating content aligned with the narrative and the audience.
+
+Next Steps
+
+If you’re looking to dive deeper, Obed and Todd have an eight-part framework. They also run a podcast, Cheat Codes: Play the Marketing Game on Easy Mode. Each episode covers one part of this framework in depth. They’re also launching a website with slide decks so you can access the information publicly and implement it at your company.
+
+Q&A and Closing
+
+We’ll now turn to questions from the live audience. For example, one listener suggested that Super Bowl commercials work because they’re top-class productions, but the discussion emphasizes that the premise and creative concept are equally important. Another listener asked how a services company could use Top-Down, Middle-Out, and Bottom-Up strategies in content. The answer: define who you serve, segment your audience, and map content to the right audience within target organizations, even if you’re a services company with a narrower ICP.
+
+ROI and Measurement
+
+A common question is ROI. It’s challenging to quantify dollars and cents for content marketing today because the market is just starting to adopt this approach in B2B SaaS. It’s not a simple short-term ROI calculation; it’s about how content supports brand, demand creation, and demand capture over time, and how it helps your sales team with better messaging, positioning, and assets. In the early stages, you’ll measure audience response, engagement, and the extent to which the content supports sales conversations and pipeline progression. Over time, benchmarks will emerge as more companies implement these practices.
+
+Closing
+
+That’s a lot to take in, but it’s designed to spark ideas you can implement immediately. If you’d like to learn more, check out the Cheat Codes podcast, the Easy Mode website, and the upcoming public slide deck that consolidates all of this information. We’d love to have Obed and Todd back for a deeper dive in a future episode.
+
+Thank you to our sponsor, Overpass (overpass.com), the number-one platform for getting fantastic SDRs and AEs for your company in a very short timeframe and at an economical cost. A big thank you to our production team for helping us be such a success with the Evolve Sales Leader. We’ll be right back here on LinkedIn again next Friday at the same time. Bring a friend. That’s going to do it for tonight. Take care, everybody. Goodbye now.
