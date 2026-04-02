@@ -75,7 +75,7 @@ This is a portfolio project setup for junior growth marketing specialist role.
 
  **Experts Researched**
  
-  | # | Name | Role | LinkedIn |
+    | # | Name | Role | LinkedIn |
 
 * | 1 | Richard van der Blom | Founder, Just Connecting HUB | https://www.linkedin.com/in/richardvanderblom 
 * | 2 | Dave Gerhardt | Founder, Exit Five | https://www.linkedin.com/in/davegerhardt 
@@ -94,6 +94,6 @@ This is a portfolio project setup for junior growth marketing specialist role.
 * YouTube transcripts were collected manually due to platform restrictions on automated scraping. This was a deliberate and documented decision the manual approach ensured higher quality, more relevant posts were selected rather than bulk automated collection.
  
 * All commits were made incrementally throughout the research process rather than in one large push at the end.
-```
+
  
 
