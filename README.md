@@ -23,13 +23,14 @@ This is a portfolio project setup for junior growth marketing specialist role.
 
 
 
+
 **Research Project: LinkedIn Organic Content Strategy for B2B SaaS**
  
-**Details**
+ **Details**
 * This research project explores LinkedIn organic content strategy for B2B SaaS companies about specifically how founders, marketing leaders and agency owners use LinkedIn to build pipeline, establish thought leadership, and grow their businesses without paid advertising.
 
  
-**Expert Selection Criteria**
+ **Expert Selection Criteria**
  10 experts were selected based on the following criteria:
  
 *  They actively run an agency, SaaS company or marketing team.
@@ -41,7 +42,7 @@ This is a portfolio project setup for junior growth marketing specialist role.
  commentators or educators who write about LinkedIn without doing it.
  
  
-**Repository Structure**
+ **Repository Structure**
 
 * `/research/sources.md`
 * A structured list of all 10 experts with their LinkedIn profiles, YouTube channels, podcast names, and a detailed annotation explaining why each person was chosen. Includes selection criteria at the bottom.
@@ -61,7 +62,7 @@ This is a portfolio project setup for junior growth marketing specialist role.
 * `podcast-episodes.md` - A curated list of relevant podcast episodes from 4 experts (Chris Walker, Dave Gerhardt, Peep Laja, Ross Simmonds) with episode topics, links and annotations on why each podcast is relevant to the research topic
  
  
-**Tools Used**
+ **Tools Used**
 * Python - `youtube-transcript-api` library for transcript collection
 * Claude Code (Sonnet 4.6) - Used inside Cursor IDE to generate scripts, format research files and structure content
 * Cursor IDE - Development environment for writing and running code
