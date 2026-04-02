@@ -77,20 +77,20 @@ This is a portfolio project setup for junior growth marketing specialist role.
  
   | # | Name | Role | LinkedIn |
 
-* | 1 | Richard van der Blom | Founder, Just Connecting HUB | \ https://www.linkedin.com/in/richardvanderblom 
-* | 2 | Dave Gerhardt | Founder, Exit Five | \ https://www.linkedin.com/in/davegerhardt 
-* | 3 | Ross Simmonds | Founder, Foundation Marketing | \ https://www.linkedin.com/in/rosssimmonds 
-* | 4 | Chris Walker | CEO, Passetto | \ https://www.linkedin.com/in/chriswalker171 
-* | 5 | Justin Welsh | Solopreneur \& LinkedIn Educator | \ https://www.linkedin.com/in/justinwelsh 
-* | 6 | Peep Laja | Founder, Wynter \& CXL | \ https://www.linkedin.com/in/peeplaja 
-* | 7 | Lara Acosta | Founder, LA Digital | \ https://www.linkedin.com/in/laraacosta 
-* | 8 | Koka Sexton | B2B SaaS Demand Gen Consultant | \ https://www.linkedin.com/in/kokasexton 
-* | 9 | Obaid Durrani | Content Strategist, Clay | \ https://www.linkedin.com/in/obaidbot 
-* | 10 | Amanda Natividad | VP Marketing, SparkToro | \ https://www.linkedin.com/in/amandanat 
+* | 1 | Richard van der Blom | Founder, Just Connecting HUB | https://www.linkedin.com/in/richardvanderblom 
+* | 2 | Dave Gerhardt | Founder, Exit Five | https://www.linkedin.com/in/davegerhardt 
+* | 3 | Ross Simmonds | Founder, Foundation Marketing | https://www.linkedin.com/in/rosssimmonds 
+* | 4 | Chris Walker | CEO, Passetto | https://www.linkedin.com/in/chriswalker171 
+* | 5 | Justin Welsh | Solopreneur \& LinkedIn Educator | https://www.linkedin.com/in/justinwelsh 
+* | 6 | Peep Laja | Founder, Wynter \& CXL | https://www.linkedin.com/in/peeplaja 
+* | 7 | Lara Acosta | Founder, LA Digital | https://www.linkedin.com/in/laraacosta 
+* | 8 | Koka Sexton | B2B SaaS Demand Gen Consultant | https://www.linkedin.com/in/kokasexton 
+* | 9 | Obaid Durrani | Content Strategist, Clay | https://www.linkedin.com/in/obaidbot 
+* | 10 | Amanda Natividad | VP Marketing, SparkToro | https://www.linkedin.com/in/amandanat 
  
  \---
  
-* Notes
+**Notes**
 * YouTube transcripts were collected manually due to platform restrictions on automated scraping. This was a deliberate and documented decision the manual approach ensured higher quality, more relevant posts were selected rather than bulk automated collection.
  
 * All commits were made incrementally throughout the research process rather than in one large push at the end.
