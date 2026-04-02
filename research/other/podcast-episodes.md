@@ -1,6 +1,6 @@
-\# Relevant Podcast Episodes
+\ Relevant Podcast Episodes
 
-\## Research Topic: LinkedIn Organic Content Strategy for B2B SaaS
+\ Research Topic: LinkedIn Organic Content Strategy for B2B SaaS
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-\## 1. Chris Walker — Revenue Vitals
+\ 1. Chris Walker — Revenue Vitals
 
 Link: https://www.refinelabs.com/podcasts
 
@@ -50,15 +50,14 @@ opinionated content on LinkedIn drives inbound pipeline for B2B SaaS.
 
 Relevant Episodes to explore:
 
-| Topic | What to look for |
+ Topic | What to look for
 
-|---|---|
 
-| Dark Social \& demand generation | How organic LinkedIn content drives pipeline that doesn't show up in attribution |
+ Dark Social \& demand generation | How organic LinkedIn content drives pipeline that doesn't show up in attribution 
 
-| GTM strategy for B2B SaaS | How content strategy connects to revenue outcomes |
+ GTM strategy for B2B SaaS | How content strategy connects to revenue outcomes 
 
-| LinkedIn organic vs paid | When to use each and how to measure both |
+ LinkedIn organic vs paid | When to use each and how to measure both 
 
 
 
@@ -66,7 +65,7 @@ Relevant Episodes to explore:
 
 
 
-\## 2. Dave Gerhardt — Exit Five Podcast
+\ 2. Dave Gerhardt — Exit Five Podcast
 
 Formerly: B2B Marketing Leaders Podcast
 
@@ -76,7 +75,7 @@ Link: https://www.exitfive.com/podcast
 
 About: Entirely dedicated to B2B marketing. Gerhardt interviews
 
-CMOs, marketing directors, and founders to uncover the tactical,
+CMOs, marketing directors and founders to uncover the tactical,
 
 day-to-day realities of building a B2B brand, managing marketing
 
@@ -84,7 +83,7 @@ KPIs, and standing out in a crowded feed.
 
 
 
-Why relevant to this research:\*\*
+Why relevant to this research:\\
 
 Exit Five is the largest community for B2B marketers. Gerhardt
 
@@ -100,15 +99,14 @@ his own LinkedIn presence is proof of concept.
 
 Relevant Episodes to explore:
 
-| Topic | What to look for |
+ Topic | What to look for 
 
-|---|---|
 
-| Founder brand on LinkedIn | How B2B SaaS founders use personal brand to grow pipeline |
+ Founder brand on LinkedIn | How B2B SaaS founders use personal brand to grow pipeline 
 
-| Content strategy for B2B | Practical frameworks for what to post and how often |
+ Content strategy for B2B | Practical frameworks for what to post and how often 
 
-| Building a B2B audience | Growing an engaged following on LinkedIn from scratch |
+ Building a B2B audience | Growing an engaged following on LinkedIn from scratch 
 
 
 
@@ -116,7 +114,7 @@ Relevant Episodes to explore:
 
 
 
-\## 3. Peep Laja — How to Win
+\ 3. Peep Laja — How to Win
 
 Link: https://howtowin.transistor.fm/
 
@@ -146,15 +144,14 @@ what they say on LinkedIn, not just how often they post.
 
 Relevant Episodes to explore:
 
-| Topic | What to look for |
+ Topic | What to look for 
 
-|---|---|
 
-| B2B positioning and messaging | How to craft LinkedIn content that differentiates your brand |
+ B2B positioning and messaging | How to craft LinkedIn content that differentiates your brand 
 
-| Competitive strategy for SaaS | Why most B2B content looks the same and how to stand out |
+ Competitive strategy for SaaS | Why most B2B content looks the same and how to stand out 
 
-| Founder brand as competitive advantage | Episode featuring Dave Gerhardt on using story as strategy |
+ Founder brand as competitive advantage | Episode featuring Dave Gerhardt on using story as strategy 
 
 
 
@@ -162,7 +159,7 @@ Relevant Episodes to explore:
 
 
 
-\## 4. Ross Simmonds — Create Like the Greats
+\ 4. Ross Simmonds — Create Like the Greats
 
 Link: https://open.spotify.com/show/3xtAETor7wKlNEVrH8OPAF
 
@@ -194,15 +191,14 @@ posts, carousels, and thought leadership articles.
 
 Relevant Episodes to explore:
 
-| Topic | What to look for |
+ Topic | What to look for 
 
-|---|---|
 
-| Content distribution frameworks | How to repurpose and distribute LinkedIn content across channels |
+ Content distribution frameworks | How to repurpose and distribute LinkedIn content across channels |
 
-| Building organic growth engines | Systems for consistent B2B content production |
+ Building organic growth engines | Systems for consistent B2B content production 
 
-| SaaS content playbooks | How top SaaS brands use content to drive organic growth |
+ SaaS content playbooks | How top SaaS brands use content to drive organic growth 
 
 
 
@@ -210,21 +206,21 @@ Relevant Episodes to explore:
 
 
 
-\## Summary Table
+\ Summary Table
 
 
 
-| Host | Podcast | Core Focus | Link |
+ Host | Podcast | Core Focus | Link 
 
-|---|---|---|---|
 
-| Chris Walker | Revenue Vitals | Dark social, GTM strategy, demand gen | https://www.refinelabs.com/podcasts |
 
-| Dave Gerhardt | Exit Five | B2B marketing, founder brand, LinkedIn | https://www.exitfive.com/podcast |
+ Chris Walker | Revenue Vitals | Dark social, GTM strategy, demand gen | https://www.refinelabs.com/podcasts 
 
-| Peep Laja | How to Win | Positioning, differentiation, B2B strategy | https://howtowin.transistor.fm/ |
+ Dave Gerhardt | Exit Five | B2B marketing, founder brand, LinkedIn | https://www.exitfive.com/podcast 
 
-| Ross Simmonds | Create Like the Greats | Content distribution, organic growth | https://open.spotify.com/show/3xtAETor7wKlNEVrH8OPAF |
+ Peep Laja | How to Win | Positioning, differentiation, B2B strategy | https://howtowin.transistor.fm/ 
+
+ Ross Simmonds | Create Like the Greats | Content distribution, organic growth | https://open.spotify.com/show/3xtAETor7wKlNEVrH8OPAF 
 
 ```
 
