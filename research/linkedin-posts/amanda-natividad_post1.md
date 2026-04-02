@@ -1,10 +1,10 @@
 \# Post by Amanda Natividad
 
-\*\*Date:\*\* 19th March 2026
+Date: 19th March 2026
 
-\*\*URL:\*\* https://www.linkedin.com/posts/amandanat\_the-future-of-ai-marketing-category-by-category-activity-7440065735311339520-DsjB?utm\_source=share\&utm\_medium=member\_desktop\&rcm=ACoAADfY1dsBaG24XiMQTDOJXbswvRApOtMKKWY
+URL: https://www.linkedin.com/posts/amandanat\_the-future-of-ai-marketing-category-by-category-activity-7440065735311339520-DsjB?utm\_source=share\&utm\_medium=member\_desktop\&rcm=ACoAADfY1dsBaG24XiMQTDOJXbswvRApOtMKKWY
 
-\*\*Engagement:\*\* 100+ likes | 60+ comments
+Engagement: 100+ likes | 60+ comments
 
 
 
@@ -68,7 +68,7 @@ The human job is deciding what’s actually worth amplifying, and holding yourse
 
 
 
-AI can spot patterns fast. But if your inputs are messy, your outputs will be well-said nonsense. I’m especially cautious here because LLMs are trained to generate plausible language, not reliable analysis. Beware of hallucinated numbers and overconfident conclusions. 
+AI can spot patterns fast. But if your inputs are messy, your outputs will be well-said nonsense. I’m especially cautious here because LLMs are trained to generate plausible language, not reliable analysis. Beware of hallucinated numbers and overconfident conclusions.
 
 
 
@@ -90,5 +90,5 @@ That’s the kind of discussion Goldcast is putting at the center of its Future 
 
 
 
-\*\*Why saved:\*\* This post provides a clear roadmap for how growth marketing roles must adapt to AI-native workflows to stay competitive.
+Why saved: This post provides a clear roadmap for how growth marketing roles must adapt to AI-native workflows to stay competitive.
 

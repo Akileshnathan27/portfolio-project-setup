@@ -1,14 +1,14 @@
 \# Post by Koka Sexton
 
-\*\*Date:\*\* 9th March 2026
+Date: 9th March 2026
 
-\*\*URL:\*\* https://www.linkedin.com/posts/kokasexton\_your-linkedin-engagement-isnt-content-performance-activity-7435744529963671552-Rqo2?utm\_source=share\&utm\_medium=member\_desktop\&rcm=ACoAADfY1dsBaG24XiMQTDOJXbswvRApOtMKKWY
+URL: https://www.linkedin.com/posts/kokasexton\_your-linkedin-engagement-isnt-content-performance-activity-7435744529963671552-Rqo2?utm\_source=share\&utm\_medium=member\_desktop\&rcm=ACoAADfY1dsBaG24XiMQTDOJXbswvRApOtMKKWY
 
-\*\*Engagement:\*\* 10+ likes | 5+ comments
+Engagement: 10+ likes | 5+ comments
 
 
 
-\---
+---
 
 
 
@@ -24,27 +24,6 @@ The smartest teams are quietly building \*\*pipeline reports from comments and l
 
 
 
-```
-
-&#x20;Content
-
-&#x20;↓
-
-&#x20;Signal
-
-&#x20;↓
-
-&#x20;Lead
-
-&#x20;↓
-
-&#x20;Conversation
-
-&#x20;↓
-
-&#x20;Pipeline
-
-```
 
 
 
@@ -200,5 +179,5 @@ You just need a system to read them.
 
 
 
-\*\*Why saved:\*\* It provides a crucial reality check for social selling, distinguishing between superficial engagement metrics and actual pipeline-generating performance.
+Why saved: It provides a crucial reality check for social selling, distinguishing between superficial engagement metrics and actual pipeline-generating performance.
 

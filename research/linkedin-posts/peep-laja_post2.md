@@ -1,10 +1,10 @@
 \# Post by Peep Laja
 
-\*\*Date:\*\* 25th March 2026
+Date: 25th March 2026
 
-\*\*URL:\*\* https://www.linkedin.com/posts/peeplaja\_half-of-cfos-sign-off-on-purchases-of-10k-activity-7440713788980449280-KhVo?utm\_source=share\&utm\_medium=member\_desktop\&rcm=ACoAADfY1dsBaG24XiMQTDOJXbswvRApOtMKKWY
+URL: https://www.linkedin.com/posts/peeplaja\_half-of-cfos-sign-off-on-purchases-of-10k-activity-7440713788980449280-KhVo?utm\_source=share\&utm\_medium=member\_desktop\&rcm=ACoAADfY1dsBaG24XiMQTDOJXbswvRApOtMKKWY
 
-\*\*Engagement:\*\* 50+ likes | 40+ comments
+Engagement: 50+ likes | 40+ comments
 
 
 
@@ -74,5 +74,5 @@ So what do you do with this?
 
 
 
-\*\*Why saved:\*\* It provides critical data on the current B2B buying environment, emphasizing the need for marketers to create content that justifies ROI to financial decision-makers.
+Why saved: It provides critical data on the current B2B buying environment, emphasizing the need for marketers to create content that justifies ROI to financial decision-makers.
 

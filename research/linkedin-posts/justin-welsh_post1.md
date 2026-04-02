@@ -1,10 +1,10 @@
 \# Post by Justin Welsh
 
-\*\*Date:\*\* 1st April 2026
+Date: 1st April 2026
 
-\*\*URL:\*\* https://www.linkedin.com/posts/justinwelsh\_you-only-capture-about-25-of-the-value-you-activity-7444349808343154688-fNLO
+URL: https://www.linkedin.com/posts/justinwelsh\_you-only-capture-about-25-of-the-value-you-activity-7444349808343154688-fNLO
 
-\*\*Engagement:\*\* 2,100+ likes | 1000+ comments
+Engagement: 2,100+ likes | 1000+ comments
 
 
 
@@ -36,7 +36,7 @@ The other $750K is reinvested into the business to help it continue to grow.
 
 
 
-That's not unfair at all. 
+That's not unfair at all.
 
 
 
@@ -44,7 +44,7 @@ After all, they're the ones who gave you the job, the collateral, the desk, the 
 
 
 
-But that has to itch a little, no? 
+But that has to itch a little, no?
 
 How do you capture that extra $750K?
 
@@ -72,7 +72,7 @@ That's how important these channels are.
 
 
 
-Once you create distribution? 
+Once you create distribution?
 
 
 
@@ -108,11 +108,11 @@ If you're interested in doing something similar, I write a short Saturday essay 
 
 
 
-One story or lesson on rethinking how you work, earn, and live. 
+One story or lesson on rethinking how you work, earn, and live.
 
 \---
 
 
 
-\*\*Why saved:\*\* This post emphasizes the importance of multi-channel distribution and moving followers toward owned assets like email lists to ensure business stability.
+Why saved: This post emphasizes the importance of multi-channel distribution and moving followers toward owned assets like email lists to ensure business stability.
 

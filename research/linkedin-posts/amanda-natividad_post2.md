@@ -1,10 +1,10 @@
 \# Post by Amanda Natividad
 
-\*\*Date:\*\* 19th March 2026
+Date: 19th March 2026
 
-\*\*URL:\*\* https://www.linkedin.com/posts/amandanat\_some-linkedin-posts-feel-dead-on-arrival-activity-7439702164811362304-EZPX?utm\_source=share\&utm\_medium=member\_desktop\&rcm=ACoAADfY1dsBaG24XiMQTDOJXbswvRApOtMKKWY
+URL: https://www.linkedin.com/posts/amandanat\_some-linkedin-posts-feel-dead-on-arrival-activity-7439702164811362304-EZPX?utm\_source=share\&utm\_medium=member\_desktop\&rcm=ACoAADfY1dsBaG24XiMQTDOJXbswvRApOtMKKWY
 
-\*\*Engagement:\*\* 150+ likes | 80+ comments
+Engagement: 150+ likes | 80+ comments
 
 
 
@@ -58,5 +58,5 @@ I wrote a deeper breakdown (plus, I made a fancy diagram of how this might work)
 
 
 
-\*\*Why saved:\*\* A practical checklist of what not to do when posting, reinforcing the "zero-click" content philosophy for better organic engagement.
+Why saved: A practical checklist of what not to do when posting, reinforcing the "zero-click" content philosophy for better organic engagement.
 

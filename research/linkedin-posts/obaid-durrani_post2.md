@@ -1,10 +1,10 @@
 \# Post by Obaid Durrani
 
-\*\*Date:\*\* 7th February 2026
+Date: 7th February 2026
 
-\*\*URL:\*\* https://www.linkedin.com/posts/adamschoenfeld\_build-vs-buy-is-the-biggest-challenge-to-activity-7416871689478877184-kCNS/
+URL: https://www.linkedin.com/posts/adamschoenfeld\_build-vs-buy-is-the-biggest-challenge-to-activity-7416871689478877184-kCNS/
 
-\*\*Engagement:\*\* 40+ likes | 15+ comments
+Engagement: 40+ likes | 15+ comments
 
 
 
@@ -24,7 +24,7 @@ That was before LLMs.
 
 
 
-Now every buyer is asking "can't we build this?" with real confidence. 
+Now every buyer is asking "can't we build this?" with real confidence.
 
 
 
@@ -40,7 +40,7 @@ They picked the side of the builder. Changed the verb. We \*build\* in Clay. We 
 
 
 
-I think packaged solutions can win too. 
+I think packaged solutions can win too.
 
 
 
@@ -56,7 +56,7 @@ You're either the platform where people build, or you're solving it better than 
 
 
 
-I feel this pressure every day building in the space. 
+I feel this pressure every day building in the space.
 
 
 
@@ -68,5 +68,5 @@ The lazy middle won't make it to 2027.
 
 
 
-\*\*Why saved:\*\* This post identifies a major structural shift in the SAAS industry where AI is lowering the barrier for companies to build internal tools, forcing SaaS providers to offer deeper, more defensible value.
+Why saved: This post identifies a major structural shift in the SAAS industry where AI is lowering the barrier for companies to build internal tools, forcing SaaS providers to offer deeper, more defensible value.
 

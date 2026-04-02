@@ -1,10 +1,10 @@
 \# Post by Chris Walker
 
-\*\*Date:\*\* 25th March
+Date: 25th March
 
-\*\*URL:\*\* https://www.linkedin.com/posts/chriswalker171\_in-2021-id-built-a-10mm-rapidly-growing-activity-7442191304089915392-Q\_82?utm\_source=share\&utm\_medium=member\_desktop\&rcm=ACoAADfY1dsBaG24XiMQTDOJXbswvRApOtMKKWY
+URL: https://www.linkedin.com/posts/chriswalker171\_in-2021-id-built-a-10mm-rapidly-growing-activity-7442191304089915392-Q\_82?utm\_source=share\&utm\_medium=member\_desktop\&rcm=ACoAADfY1dsBaG24XiMQTDOJXbswvRApOtMKKWY
 
-\*\*Engagement:\*\* 50+ likes | 40+ comments
+Engagement: 50+ likes | 40+ comments
 
 
 
@@ -20,9 +20,9 @@ I told myself the same story most people do.
 
 
 
-"I'm just an anxious person. This just happens to me sometimes." 
+"I'm just an anxious person. This just happens to me sometimes."
 
-"My job is stressful. This just comes with the territory." 
+"My job is stressful. This just comes with the territory."
 
 "Entrepreneurship is hard. This is normal."
 
@@ -40,7 +40,7 @@ I followed all the typical advice:
 
 \-Push through it
 
-\-Try some breathing exercises 
+\-Try some breathing exercises
 
 \-Fake it till you make it
 
@@ -50,7 +50,7 @@ I followed all the typical advice:
 
 
 
-And I wondered why it kept coming back. 
+And I wondered why it kept coming back.
 
 
 
@@ -58,19 +58,19 @@ Then I had the "aha" moment that changed my life:
 
 
 
-Anxiety is not the problem. It's a signal telling you something in your subconscious programming is conflicting with how you're trying to live your life. 
+Anxiety is not the problem. It's a signal telling you something in your subconscious programming is conflicting with how you're trying to live your life.
 
 
 
-Like the check engine warning light going off in your car. 
+Like the check engine warning light going off in your car.
 
 
 
-"Fake it till you make it" is the equivalent of driving your car into the ground while the check engine light is on. 
+"Fake it till you make it" is the equivalent of driving your car into the ground while the check engine light is on.
 
 
 
-Most typical advice is for coping and managing the symptoms while the real problem remains unresolved. 
+Most typical advice is for coping and managing the symptoms while the real problem remains unresolved.
 
 
 
@@ -98,7 +98,7 @@ So the first step is to see them clearly.
 
 
 
-ENCODED surfaces your subconscious programs in 45 minutes. What used to take years of therapy, meditation, or introspection now takes 45 minutes. 
+ENCODED surfaces your subconscious programs in 45 minutes. What used to take years of therapy, meditation, or introspection now takes 45 minutes.
 
 
 
@@ -110,11 +110,11 @@ Identity: I'm someone who leads from experience, pride, and vulnerability.
 
 Beliefs: Vulnerability creates impact. When I show up honestly, other people see more of what's possible for themselves.
 
-Intentions: I'm here to empower and inspire others. 
+Intentions: I'm here to empower and inspire others.
 
 
 
-Through daily repetition, these new subconscious programs get adopted at the deepest level. Neuroplasticity does the work. 
+Through daily repetition, these new subconscious programs get adopted at the deepest level. Neuroplasticity does the work.
 
 
 
@@ -134,5 +134,5 @@ You can apply this to anything. Public speaking. Relationships. Money. Leadershi
 
 
 
-\*\*Why saved:\*\* A reflective post on the transition from a founder-led startup to a scalable, data-driven organization, emphasizing the importance of unit economics over raw growth.
+Why saved: A reflective post on the transition from a founder-led startup to a scalable, data-driven organization, emphasizing the importance of unit economics over raw growth.
 

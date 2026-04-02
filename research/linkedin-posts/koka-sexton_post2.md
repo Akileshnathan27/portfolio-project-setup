@@ -1,10 +1,10 @@
 \# Post by Koka Sexton
 
-\*\*Date:\*\* 
+Date:1st March 2026
 
-\*\*URL:\*\* https://www.linkedin.com/posts/kokasexton\_lets-take-a-moment-and-focus-on-how-pandadoc-activity-7434696882372841472-gjTF/
+URL: https://www.linkedin.com/posts/kokasexton\_lets-take-a-moment-and-focus-on-how-pandadoc-activity-7434696882372841472-gjTF/
 
-\*\*Engagement:\*\* 50+ likes | 10+ comments
+Engagement: 50+ likes | 10+ comments
 
 
 
@@ -178,5 +178,5 @@ Will PandaDoc keep acting like software…
 
 
 
-\*\*Why saved:\*\* This post offers a strong case study (PandaDoc) on how to successfully implement and leverage employee advocacy as a core driver for B2B inbound marketing.
+Why saved: This post offers a strong case study (PandaDoc) on how to successfully implement and leverage employee advocacy as a core driver for B2B inbound marketing.
 

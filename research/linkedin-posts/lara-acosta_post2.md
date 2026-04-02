@@ -1,10 +1,10 @@
 \# Post by Lara Acosta
 
-\*\*Date:\*\* 27th March 2026
+Date: 27th March 2026
 
-\*\*URL:\*\* https://www.linkedin.com/posts/laraacostar\_i-used-to-think-a-9-5-was-safe-now-all-activity-7443276459525361665-Ynbm?utm\_source=share\&utm\_medium=member\_desktop\&rcm=ACoAADfY1dsBaG24XiMQTDOJXbswvRApOtMKKWY
+URL: https://www.linkedin.com/posts/laraacostar\_i-used-to-think-a-9-5-was-safe-now-all-activity-7443276459525361665-Ynbm?utm\_source=share\&utm\_medium=member\_desktop\&rcm=ACoAADfY1dsBaG24XiMQTDOJXbswvRApOtMKKWY
 
-\*\*Engagement:\*\* 2000+ likes | 700+ comments
+Engagement: 2000+ likes | 700+ comments
 
 
 
@@ -16,13 +16,13 @@ I used to think a 9-5 was "safe". Now all I see is layoffs.
 
 
 
-Meta just laid off 700 more people. 
+Meta just laid off 700 more people.
 
-Google is cutting over 1000 roles too. 
+Google is cutting over 1000 roles too.
 
 
 
-Turns out all those rejection letters I received in 2018, where blessings in disguise. 
+Turns out all those rejection letters I received in 2018, where blessings in disguise.
 
 
 
@@ -48,21 +48,21 @@ Became the ultimate job board for jobs that weren't even public. And ultimately 
 
 All because I picked a topic I liked.
 
-Wrote content weekly about it. 
+Wrote content weekly about it.
 
-And turned that content into products. 
-
-
-
-This is the future for people. 
+And turned that content into products.
 
 
 
-Your talent is worth more than you think. 
+This is the future for people.
 
 
 
-Start posting today. 
+Your talent is worth more than you think.
+
+
+
+Start posting today.
 
 
 
@@ -76,5 +76,5 @@ Made you a 7-day checklist for you to start for free: https://lnkd.in/e2cCfZeh
 
 
 
-\*\*Why saved:\*\* It introduces the "Content-Offer Fit" framework, which is essential for transitioning from a content creator to a revenue-generating personal brand.
+Why saved: It introduces the "Content-Offer Fit" framework, which is essential for transitioning from a content creator to a revenue-generating personal brand.
 

@@ -1,10 +1,10 @@
 \# Post by Dave Geehardt
 
-\*\*Date:\*\* 19th March 2026
+Date: 19th March 2026
 
-\*\*URL:\*\* https://www.linkedin.com/posts/davegerhardt\_linkedin-is-the-number-one-channel-for-b2b-activity-7439654089778462720--k4c?utm\_source=share\&utm\_medium=member\_desktop\&rcm=ACoAADfY1dsBaG24XiMQTDOJXbswvRApOtMKKWY
+URL: https://www.linkedin.com/posts/davegerhardt\_linkedin-is-the-number-one-channel-for-b2b-activity-7439654089778462720--k4c?utm\_source=share\&utm\_medium=member\_desktop\&rcm=ACoAADfY1dsBaG24XiMQTDOJXbswvRApOtMKKWY
 
-\*\*Engagement:\*\* 1,50+ likes | 210+ comments
+Engagement: 150+ likes | 210+ comments
 
 
 
@@ -16,7 +16,7 @@ LinkedIn is the number one channel for B2B marketers (for content, social, ads, 
 
 
 
-We covered: 
+We covered:
 
 
 
@@ -50,5 +50,5 @@ PS. Did you know the average B2B deal takes 211 days and involves 22 people?
 
 
 
-\*\*Why saved:\*\* This post reinforces the importance of "zero-click" content and native consumption on B2B’s most critical social platform.
+Why saved: This post reinforces the importance of "zero-click" content and native consumption on B2B’s most critical social platform.
 

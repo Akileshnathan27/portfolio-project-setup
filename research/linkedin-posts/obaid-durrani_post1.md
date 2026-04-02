@@ -1,10 +1,10 @@
 \# Post by Obaid Durrani
 
-\*\*Date:\*\* 26th February 2026
+Date: 26th February 2026
 
-\*\*URL:\*\* https://www.linkedin.com/posts/samkuehnle\_claypartner-ugcPost-7432491345681944579-DhiG?utm\_source=share\&utm\_medium=member\_desktop\&rcm=ACoAADfY1dsBaG24XiMQTDOJXbswvRApOtMKKWY
+URL: https://www.linkedin.com/posts/samkuehnle\_claypartner-ugcPost-7432491345681944579-DhiG?utm\_source=share\&utm\_medium=member\_desktop\&rcm=ACoAADfY1dsBaG24XiMQTDOJXbswvRApOtMKKWY
 
-\*\*Engagement:\*\* 40+ likes | 10+ comments
+Engagement: 40+ likes | 10+ comments
 
 
 
@@ -64,5 +64,5 @@ Today Clay officially released their ads functionality I'd been playing around w
 
 
 
-\*\*Why saved:\*\*  This post highlights the evolution of outbound sales toward data-driven, programmatic personalization that prioritizes relevance over volume using clay.
+Why saved:  This post highlights the evolution of outbound sales toward data-driven, programmatic personalization that prioritizes relevance over volume using clay.
 

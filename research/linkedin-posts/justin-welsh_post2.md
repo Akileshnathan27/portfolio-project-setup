@@ -1,10 +1,10 @@
 \# Post by Justin Welsh
 
-\*\*Date:\*\* 10th March 2026
+Date: 10th March 2026
 
-\*\*URL:\*\* https://www.linkedin.com/posts/justinwelsh\_a-lot-of-business-comes-down-to-who-you-know-activity-7436029984021991424-N8j4/
+URL: https://www.linkedin.com/posts/justinwelsh\_a-lot-of-business-comes-down-to-who-you-know-activity-7436029984021991424-N8j4/
 
-\*\*Engagement:\*\* 1,850+ likes | 600+ comments
+Engagement: 1,850+ likes | 600+ comments
 
 
 
@@ -44,7 +44,7 @@ There's a faster way to build a top 1% network.
 
 
 
-Of course, these aren't the only things that matter. 
+Of course, these aren't the only things that matter.
 
 And yes, having a compelling life/business is great.
 
@@ -72,7 +72,7 @@ That's it.
 
 
 
-Do that once a day for 365 days. 
+Do that once a day for 365 days.
 
 See what happens to your network.
 
@@ -82,5 +82,5 @@ See what happens to your network.
 
 
 
-\*\*Why saved:\*\* It reframes networking as a byproduct of public expertise and consistent content, rather than a manual, one-on-one outreach process.
+Why saved: It reframes networking as a byproduct of public expertise and consistent content, rather than a manual, one-on-one outreach process.
 
