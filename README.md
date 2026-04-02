@@ -22,14 +22,12 @@ This is a portfolio project setup for junior growth marketing specialist role.
 * **Solution:** I watched a couple of youtube tutorials about creating a GitHub repository and then I also used Gemini to give a step by step process on how to do it.
 
 
----
 
 **Research Project: LinkedIn Organic Content Strategy for B2B SaaS**
  
 **Details**
 * This research project explores LinkedIn organic content strategy for B2B SaaS companies about specifically how founders, marketing leaders and agency owners use LinkedIn to build pipeline, establish thought leadership, and grow their businesses without paid advertising.
 
-\---
  
 **Expert Selection Criteria**
  10 experts were selected based on the following criteria:
@@ -42,7 +40,6 @@ This is a portfolio project setup for junior growth marketing specialist role.
  The goal was to find people who practice what they teach, not just 
  commentators or educators who write about LinkedIn without doing it.
  
- \---
  
 **Repository Structure**
 
@@ -63,7 +60,6 @@ This is a portfolio project setup for junior growth marketing specialist role.
 * Additional research materials including:
 * `podcast-episodes.md` - A curated list of relevant podcast episodes from 4 experts (Chris Walker, Dave Gerhardt, Peep Laja, Ross Simmonds) with episode topics, links and annotations on why each podcast is relevant to the research topic
  
-\---
  
 **Tools Used**
 * Python - `youtube-transcript-api` library for transcript collection
@@ -71,7 +67,6 @@ This is a portfolio project setup for junior growth marketing specialist role.
 * Cursor IDE - Development environment for writing and running code
 * Git \& GitHub - Version control with regular commits throughout the research process
  
-\---
 
  **Experts Researched**
  
@@ -88,7 +83,6 @@ This is a portfolio project setup for junior growth marketing specialist role.
 * | 9 | Obaid Durrani | Content Strategist, Clay | https://www.linkedin.com/in/obaidbot 
 * | 10 | Amanda Natividad | VP Marketing, SparkToro | https://www.linkedin.com/in/amandanat 
  
- \---
  
 **Notes**
 * YouTube transcripts were collected manually due to platform restrictions on automated scraping. This was a deliberate and documented decision the manual approach ensured higher quality, more relevant posts were selected rather than bulk automated collection.
