@@ -65,7 +65,7 @@ This is a portfolio project setup for junior growth marketing specialist role.
  
 \---
  
-* **Tools Used**
+**Tools Used**
 * Python - `youtube-transcript-api` library for transcript collection
 * Claude Code (Sonnet 4.6) - Used inside Cursor IDE to generate scripts, format research files and structure content
 * Cursor IDE - Development environment for writing and running code
