@@ -238,15 +238,13 @@ Broad content reaches everyone and influences no one. The B2B content strategies
 
 
 
-Dave Gerhardt interviewed Erin May, CMO at User Interviews, who grew the company from zero recurring revenue to $20M+ ARR over eight years. Her approach was to pick one niche audience and go all in, lead with ungated content and build a quarterly rhythm around high-impact posts that got the entire company involved. Gerhardt highlighted this as a model for how B2B content should be built — not around volume, but around sharp focus and consistency.
+Dave Gerhardt interviewed Erin May, CMO at User Interviews, who grew the company from zero recurring revenue to $20M+ ARR over eight years. Her approach was to pick one niche audience and go all in, lead with ungated content and build a quarterly rhythm around high-impact posts that got the entire company involved. Gerhardt highlighted this as a model for how B2B content should be built, not around volume, but around sharp focus and consistency.
 
 (Dave Gerhardt, 16.03.2026, [Source](https://www.linkedin.com/posts/davegerhardt_are-you-putting-out-bangers-in-b2b-my-activity-7438167765066121216-sb7f))
 
 
 
-This aligns directly with what Richard van der Blom's algorithm data shows, that posting across three or more unrelated topics reduces distribution by up to 42%. Niche focus is not just a
-
-branding decision. It is what allows the algorithm to know who to show your content to.
+This aligns directly with what Richard van der Blom's algorithm data shows, that posting across three or more unrelated topics reduces distribution by up to 42%. Niche focus is not just about branding decisions. It is what allows the algorithm to know who to show your content to.
 
 (Richard van der Blom, 31.03.2026, [Source](https://www.linkedin.com/posts/richardvanderblom_linkedin-doesnt-care-how-hard-you-worked-activity-7444649055810371584-GCWE/))
 
@@ -290,7 +288,7 @@ Data and feature led content performs consistently below content that connects e
 
 
 
-Koka Sexton's analysis of PandaDoc's LinkedIn presence is one of the clearest case studies of this principle. PandaDoc had 255,405 followers and was averaging 57 engagements per post which is a significant under performance for their audience size. Their top performing post was not about their product. It was about layoffs and hiring. It received 242 engagements, which was 323% above their average. Their worst-performing posts were AI prompt downloads and generic calls to action. Sexton's conclusion: Utility does not equal emotional gravity. The brand won when it positioned itself as a company helping teams navigate real human situations. It lost when it sounded like every other martech account.
+Koka Sexton's analysis of PandaDoc's LinkedIn presence is one of the clearest case studies of this principle. PandaDoc had 255,405 followers and was averaging 57 engagements per post which is a significant under performance for their audience size. Their top performing post was not about their product. It was about layoffs and hiring. It received 242 engagements, which was 323% above their average. Their worst performing posts were AI prompt downloads and generic calls to action. Sexton's conclusion: Utility does not equal emotional gravity. The brand won when it positioned itself as a company helping teams navigate real human situations. It lost when it sounded like every other martech account.
 
 (Koka Sexton, 01.03.2026, [Source](https://www.linkedin.com/posts/kokasexton_lets-take-a-moment-and-focus-on-how-pandadoc-activity-7434696882372841472-gjTF/))
 
@@ -758,9 +756,7 @@ What it gets wrong is the nature of the problem it is solving.
 
 
 
-LinkedIn organic content for B2B SaaS does not fail because it is produced too slowly. It fails because it has nothing original to say. The feed is already saturated with content that is
-
-technically competent, consistently formatted and completely forgettable. AI, by its nature, produces outputs that are statistically likely, meaning it generates the most probable version of whatever you ask it for. In a market where the most probable version of B2B content already exists in abundance, adding more of it faster is not a competitive advantage. It will be acceleration toward irrelevance.
+LinkedIn organic content for B2B SaaS does not fail because it is produced too slowly. It fails because it has nothing original to say. The feed is already saturated with content that is technically competent, consistently formatted and completely forgettable. AI, by its nature, produces outputs that are statistically likely, meaning it generates the most probable version of whatever you ask it for. In a market where the most probable version of B2B content already exists in abundance, adding more of it faster is not a competitive advantage. It will be acceleration toward irrelevance.
 
 
 
