@@ -16,7 +16,7 @@
 
 
 
-##### **Introduction**
+### **Introduction**
 
 
 
@@ -36,7 +36,7 @@ The research behind this playbook includes 20 LinkedIn posts, 10 YouTube video t
 
 
 
-##### **Section 1: Foundation — Before You Post Anything**
+### **Section 1: Foundation - Before You Post Anything**
 
 
 
@@ -54,7 +54,9 @@ Before writing anything, decide what topic you want to be known for and commit t
 
 
 
-Richard van der Blom's 2026 Algorithm Insights Report data shows that creators who post across three or more unrelated topics see up to 42% lower content distribution. The algorithm needs to know who to show your content to. If your posts jump between unrelated subjects, LinkedIn cannot categorise you and stops distributing your content to new audiences.             (Richard van der Blom, 31.03.2026, [Source](https://www.linkedin.com/posts/richardvanderblom_linkedin-doesnt-care-how-hard-you-worked-activity-7444649055810371584-GCWE/))
+Richard van der Blom's 2026 Algorithm Insights Report data shows that creators who post across three or more unrelated topics see up to 42% lower content distribution. The algorithm needs to know who to show your content to. If your posts jump between unrelated subjects, LinkedIn cannot categorise you and stops distributing your content to new audiences.            
+
+(Richard van der Blom, 31.03.2026, [Source](https://www.linkedin.com/posts/richardvanderblom_linkedin-doesnt-care-how-hard-you-worked-activity-7444649055810371584-GCWE/))
 
 
 
@@ -170,7 +172,7 @@ Amanda Natividad warns that using AI to generate content without adding genuine 
 
 #### 
 
-##### **Section 2: Content Strategy — What to Post and Why**
+### **Section 2: Content Strategy — What to Post and Why**
 
 
 
@@ -332,7 +334,7 @@ Justin Welsh makes the same point from a different angle. His post on distributi
 
 
 
-##### **Section 3: Engagement and Distribution - How to Grow Your Reach**
+### **Section 3: Engagement and Distribution - How to Grow Your Reach**
 
 
 
@@ -394,7 +396,7 @@ people who do not already know you is what drives distribution.
 
 
 
-**### 3.3 Treat Engagement as a Buyer Intelligence Feed**
+**3.3 Treat Engagement as a Buyer Intelligence Feed**
 
 
 
@@ -414,7 +416,7 @@ Sexton's framework reframes every post as a pipeline tool. When someone engages 
 
 
 
-**### 3.4 Networking Through Content, Not Cold Outreach**
+**3.4 Networking Through Content, Not Cold Outreach**
 
 
 
@@ -436,7 +438,7 @@ sending any kind of direct message. Let the engagement history do the introducti
 
 
 
-**### 3.5 Community Beats Awareness**
+**3.5 Community Beats Awareness**
 
 
 
@@ -466,7 +468,7 @@ engagement feed as a source of pipeline intelligence and building genuine relati
 
 
 
-##### **Section 4: Measurement - How to Know If It Is Working**
+### **Section 4: Measurement - How to Know If It Is Working**
 
 
 
@@ -608,7 +610,7 @@ how you change that equation permanently.
 
 
 
-##### Where Experts Disagree
+### Where Experts Disagree
 
 
 
@@ -716,7 +718,7 @@ The practical advantage is also significant. Welsh's distribution approach requi
 
 
 
-##### What I Rejected and Why
+### What I Rejected and Why
 
 
 
@@ -814,7 +816,7 @@ workflow and treating human input as optional is how a brand disappears into the
 
 
 
-##### My Original Ideas
+### My Original Ideas
 
 
 
@@ -842,15 +844,13 @@ The Internal Expert Strategy challenges this model. The idea is to deliberately 
 
 
 
-The second reason is more important than the algorithm and it comes from a gap I noticed across all 20 posts in the research. Marketing professionals are trained to create hooks, drive
+The second reason is more important than the algorithm and it comes from a gap I noticed across all 20 posts in the research. Marketing professionals are trained to create hooks, drive 
 
 urgency and position against competitors. These are legitimate skills. But they produce a recognisable type of content, a content that tells you what a product does, why it beats the competition and why you should act now. Experienced B2B buyers have learned to filter this out.
 
 
 
-A customer success manager does not think about content the same way a marketer does. They spend their days solving the real problems that real customers face after the sale. They know which promises the product actually keeps and which ones require caveats. They know what onboarding looks like, what the most common failure points are and what success genuinely looks like for a customer six months in. This is information that a marketing led content strategy almost never surfaces not because it is hidden, but because the marketing team is rarely
-
-the person closest to it.
+A customer success manager does not think about content the same way a marketer does. They spend their days solving the real problems that real customers face after the sale. They know which promises the product actually keeps and which ones require caveats. They know what onboarding looks like, what the most common failure points are and what success genuinely looks like for a customer six months in. This is information that a marketing led content strategy almost never surfaces not because it is hidden, but because the marketing team is rarely the person closest to it.
 
 
 
@@ -858,9 +858,7 @@ A founder brings something different again. Nobody can explain the value a produ
 
 
 
-The Internal Expert Strategy is not about getting everyone in the company to post more. It is about deliberately pairing the right voice with the right type of content. Let the marketing
-
-team lead on awareness and distribution. Let the customer success manager speak to outcomes and real world value. Let the founder speak to vision, belief and the reasoning behind the product. When these three voices operate in coordination, engaging with each other's content, building on each other's ideas the result is a content ecosystem that feels genuinely human, covers the full buyer journey and reaches three separate networks simultaneously.
+The Internal Expert Strategy is not about getting everyone in the company to post more. It is about deliberately pairing the right voice with the right type of content. Let the marketing department lead on awareness and distribution. Let the customer success manager speak to outcomes and real world value. Let the founder speak to vision, belief and the reasoning behind the product. When these three voices operate in coordination, engaging with each other's content, building on each other's ideas the result is a content ecosystem that feels genuinely human, covers the full buyer journey and reaches three separate networks simultaneously.
 
 
 
@@ -894,7 +892,7 @@ This is not a complicated system. It requires no budget and no tools. It require
 
 
 
-##### Weaknesses of This Playbook
+### Weaknesses of This Playbook
 
 
 
@@ -930,17 +928,11 @@ Every recommendation in this playbook is drawn from research. None of it has bee
 
 
 
-Practitioners like Richard van der Blom, Koka Sexton and Lara Acosta are writing from years of direct experience running LinkedIn strategies for themselves and their clients. This
-
-playbook synthesises their findings but cannot replicate their experiential knowledge. A reader who follows these recommendations will encounter situations that the research does
-
-not cover and will need to make judgment calls that no playbook can make for them.
+Practitioners like Richard van der Blom, Koka Sexton and Lara Acosta are writing from years of direct experience running LinkedIn strategies for themselves and their clients. This playbook synthesises their findings but cannot replicate their experiential knowledge. A reader who follows these recommendations will encounter situations that the research does not cover and will need to make judgment calls that no playbook can make for them.
 
 
 
-The honest position is this playbook tells you what the evidence suggests. Only execution will tell you what actually works for your specific audience, your specific industry and
-
-your specific voice.
+The honest position is this playbook tells you what the evidence suggests. Only execution will tell you what actually works for your specific audience, your specific industry and your specific voice.
 
 
 
@@ -954,15 +946,11 @@ The Internal Expert Strategy proposed in the My Original Ideas section is logica
 
 
 
-It is a hypothesis. A well-reasoned one, but a hypothesis nonetheless. A reader who implements it is taking on the risk that comes with any untested idea, it may work exactly as
-
-described, it may work partially or it may produce unexpected results that the theory did not anticipate.
+It is a hypothesis. A well-reasoned one, but a hypothesis nonetheless. A reader who implements it is taking on the risk that comes with any untested idea, it may work exactly as described, it may work partially or it may produce unexpected results that the theory did not anticipate.
 
 
 
-This does not mean the idea should be dismissed. It means it should be treated as an experiment, implemented with clear success metrics defined in advance and evaluated honestly after
-
-90 days of consistent execution.
+This does not mean the idea should be dismissed. It means it should be treated as an experiment, implemented with clear success metrics defined in advance and evaluated honestly after 90 days of consistent execution.
 
 
 
@@ -972,19 +960,13 @@ This does not mean the idea should be dismissed. It means it should be treated a
 
 
 
-Every section of this playbook focuses exclusively on organic content. This is a deliberate scope decision, the research brief was LinkedIn organic content strategy but it creates a
-
-meaningful gap for any reader trying to build a complete LinkedIn strategy for a B2B SaaS company.
+Every section of this playbook focuses exclusively on organic content. This is a deliberate scope decision, the research brief was LinkedIn organic content strategy but it creates a meaningful gap for any reader trying to build a complete LinkedIn strategy for a B2B SaaS company.
 
 
 
 LinkedIn's own internal data, shared by LinkedIn VP of Marketing Davang Shah in a conversation with Dave Gerhardt, identifies thought leader ads as a growing and effective format for B2B
 
-marketers. Thought leader ads amplify organic posts from individual employees rather than company pages, meaning they sit directly at the intersection of organic content strategy
-
-and paid distribution. A complete playbook would address how these two approaches work together, how organic content informs which posts are worth amplifying and how paid
-
-amplification extends the reach of content that has already proven itself organically.
+marketers. Thought leader ads amplify organic posts from individual employees rather than company pages, meaning they sit directly at the intersection of organic content strategy and paid distribution. A complete playbook would address how these two approaches work together, how organic content informs which posts are worth amplifying and how paid amplification extends the reach of content that has already proven itself organically.
 
 (Dave Gerhardt, 19.03.2026, [Source](https://www.linkedin.com/posts/davegerhardt_linkedin-is-the-number-one-channel-for-b2b-activity-7439654089778462720--k4c))
 
@@ -1000,7 +982,7 @@ paid strategy.
 
 
 
-##### Who I Would NOT Recommend Following and Why
+### Who I Would NOT Recommend Following and Why
 
 
 
@@ -1014,9 +996,7 @@ This section is not about dismissing experts. Every person on this list has genu
 
 
 
-Obaid Durrani created the Easy Mode content framework, which has been adopted by over 20 SaaS companies and he architected HockeyStack's LinkedIn and owned media strategy, widely
-
-considered one of the most creative B2B brand builds in martech. His credentials are real and his strategic thinking is genuinely valuable.
+Obaid Durrani created the Easy Mode content framework, which has been adopted by over 20 SaaS companies and he architected HockeyStack's LinkedIn and owned media strategy, widely considered one of the most creative B2B brand builds in martech. His credentials are real and his strategic thinking is genuinely valuable.
 
 
 
@@ -1070,7 +1050,7 @@ The recommendation is this, go back through Walker's LinkedIn archive and read h
 
 
 
-##### A Note on the Other Eight Experts
+### A Note on the Other Eight Experts
 
 
 
