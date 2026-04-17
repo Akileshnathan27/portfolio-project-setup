@@ -1,16 +1,14 @@
-\# LinkedIn Organic Content Strategy for B2B SaaS
+**LinkedIn Organic Content Strategy for B2B SaaS**
 
-\## Playbook \& SOP
+**Playbook \& SOP**
 
 
 
-\*\*Author:\*\* Akileshnathan
+**Author:** Akileshnathan
 
-\*\*Based on research from:\*\* 10 expert practitioners
+**Based on research from:** 10 expert practitioners
 
-\*\*Date:\*\* April 16, 2026
-
-\*\*Version:\*\* 1.0
+**Date:** April 16, 2026
 
 
 
@@ -18,7 +16,7 @@
 
 
 
-\## Introduction
+##### **Introduction**
 
 
 
@@ -38,7 +36,7 @@ The research behind this playbook includes 20 LinkedIn posts, 10 YouTube video t
 
 
 
-\## Section 1: Foundation — Before You Post Anything
+##### **Section 1: Foundation — Before You Post Anything**
 
 
 
@@ -48,7 +46,7 @@ Most LinkedIn content fails not because of bad writing, but because the person p
 
 
 
-\### 1.1 Pick One Topic and Stay in That Lane
+**1.1 Pick One Topic and Stay in That Lane**
 
 
 
@@ -56,23 +54,23 @@ Before writing anything, decide what topic you want to be known for and commit t
 
 
 
-Richard van der Blom's 2026 Algorithm Insights Report data shows that creators who post across three or more unrelated topics see up to 42% lower content distribution. The algorithm needs to know who to show your content to. If your posts jump between unrelated subjects, LinkedIn cannot categorise you and stops distributing your content to new audiences.             (Source: Richard van der Blom, 31.03.2026, https://www.linkedin.com/posts/richardvanderblom\_linkedin-doesnt-care-how-hard-you-worked-activity-7444649055810371584-GCWE)
+Richard van der Blom's 2026 Algorithm Insights Report data shows that creators who post across three or more unrelated topics see up to 42% lower content distribution. The algorithm needs to know who to show your content to. If your posts jump between unrelated subjects, LinkedIn cannot categorise you and stops distributing your content to new audiences.             (Richard van der Blom, 31.03.2026, [Source](https://www.linkedin.com/posts/richardvanderblom_linkedin-doesnt-care-how-hard-you-worked-activity-7444649055810371584-GCWE/))
 
 
 
 Van der Blom also found that LinkedIn's 360Brew update shifted the feed from relationship-based to topic-based, meaning posts from people writing about the same subject now get 42% more reach, while posts outside your topic cluster get suppressed. This makes topic consistency not just a branding decision but an algorithmic one.
 
-(Source: Richard van der Blom, 26.03.2026, https://www.linkedin.com/posts/richardvanderblom\_linkedins-360brew-update-quietly-reshuffled-activity-7440310481044717568-6GrI)
+(Richard van der Blom, 26.03.2026, [Source](https://www.linkedin.com/posts/richardvanderblom_linkedins-360brew-update-quietly-reshuffled-activity-7440310481044717568-6GrI/))
 
 
 
-\*\*What to do:\*\* Write down the single topic you want to be associated with. Every post you publish should connect back to that topic. If a post idea does not fit, save it for a different platform or a later stage.
+**What to do:** Write down the single topic you want to be associated with. Every post you publish should connect back to that topic. If a post idea does not fit, save it for a different platform or a later stage.
 
 
 
 
 
-\### 1.2 Optimise Your Profile Before You Post
+**1.2 Optimise Your Profile Before You Post**
 
 
 
@@ -82,11 +80,11 @@ Your content will drive people to your profile. If your profile does not immedia
 
 Lara Acosta visited LinkedIn's headquarters in London and came away with one clear finding: In 2026, your profile is your most important asset on the platform. LinkedIn's AI now uses your profile to decide who to show your content to, whether new visitors follow you and whether those visitors convert to clients. A vague headline like "Founder" or "Coach" is not enough. The profile needs to state a clear, specific outcome.
 
-(Source: Lara Acosta, 01.04.2026, https://www.linkedin.com/posts/laraacostar\_i-spent-the-day-at-the-linkedin-headquarters-activity-7444691986248372224-48tM)
+(Lara Acosta, 01.04.2026, [Source](https://www.linkedin.com/posts/laraacostar_i-spent-the-day-at-the-linkedin-headquarters-activity-7444691986248372224-48tM/))
 
 
 
-\*\*What to do:\*\* Before publishing your first post, fix these four profile elements:
+**What to do:** Before publishing your first post, fix these four profile elements:
 
 1\. Headline - does it state clearly who you help and what outcome you create, not just your job title?
 
@@ -100,7 +98,7 @@ Lara Acosta visited LinkedIn's headquarters in London and came away with one cle
 
 
 
-\### 1.3 Build Your Own Distribution Channel
+**1.3 Build Your Own Distribution Channel**
 
 
 
@@ -110,17 +108,17 @@ LinkedIn is not the end goal. It is the tool you use to build an audience you ev
 
 Justin Welsh, who built a $5M+ one-person business using organic LinkedIn content, makes the case that the most valuable thing a professional can build is their own distribution channel. He argues that most people capture only around 25% of the value they create at work because they rely on someone else's assets such as the company's product, the company's collateral and  the company's reach. Building your own channel on LinkedIn and converting that audience into an owned asset like an email list is how you change that equation.
 
-(Source: Justin Welsh, 01.04.2026, https://www.linkedin.com/posts/justinwelsh\_you-only-capture-about-25-of-the-value-you-activity-7444349808343154688-fNLO)
+(Justin Welsh, 01.04.2026, [Source](https://www.linkedin.com/posts/justinwelsh_you-only-capture-about-25-of-the-value-you-activity-7444349808343154688-fNLO/))
 
 
 
-\*\*What to do:\*\* Decide from day one where you want to move your LinkedIn audience. An email newsletter, a community or a waiting list. Every piece of content you publish should have a path toward that owned channel.
+**What to do:** Decide from day one where you want to move your LinkedIn audience. An email newsletter, a community or a waiting list. Every piece of content you publish should have a path toward that owned channel.
 
 
 
 
 
-\### 1.4 Know Exactly Who Makes the Buying Decision
+**1.4 Know Exactly Who Makes the Buying Decision**
 
 
 
@@ -130,7 +128,7 @@ For B2B SaaS specifically, your LinkedIn content is not just read by the person 
 
 Peep Laja surveyed 100 CFOs and VPs of Finance and found that 51% personally sign off on software purchases of $10,000 or less. Most B2B marketers assume the CFO only appears in large enterprise deals. The data says otherwise. For a standard $8,000 per year SaaS tool, the CFO is already reviewing it. Multiple CFOs in his survey reported being brought in too late in the buying process and losing leverage as a result.
 
-(Source: Peep Laja, 25.03.2026, https://www.linkedin.com/posts/peeplaja\_half-of-cfos-sign-off-on-purchases-of-10k-activity-7440713788980449280-KhVo)
+(Peep Laja, 25.03.2026, [Source](https://www.linkedin.com/posts/peeplaja_half-of-cfos-sign-off-on-purchases-of-10k-activity-7440713788980449280-KhVo/))
 
 
 
@@ -138,13 +136,13 @@ This has a direct implication for LinkedIn content. If CFOs are evaluating your 
 
 
 
-\*\*What to do:\*\* Before writing any content, map out who actually makes or influences the buying decision at your target company. Then write for that person, not just for the person who will use the product day to day.
+**What to do:** Before writing any content, map out who actually makes or influences the buying decision at your target company. Then write for that person, not just for the person who will use the product day to day.
 
 
 
 
 
-\### 1.5 Have a Point of View, Not Just Information
+**1.5 Have a Point of View, Not Just Information**
 
 
 
@@ -154,23 +152,25 @@ LinkedIn rewards distinctiveness. Generic, balanced, carefully inoffensive conte
 
 Amanda Natividad warns that using AI to generate content without adding genuine perspective produces what she calls "statistically likely word sequences", a content that is polished but has no real point of view. In a zero-click world where people form opinions from the feed without ever clicking a link, sameness means you do not get noticed, amplified or cited. The posts that spread are the ones that take a real position.
 
-(Source: Amanda Natividad, 19.03.2026, https://www.linkedin.com/posts/amandanat\_the-future-of-ai-marketing-category-by-category-activity-7440065735311339520-DsjB)
+(Amanda Natividad, 19.03.2026, [Source](https://www.linkedin.com/posts/amandanat_the-future-of-ai-marketing-category-by-category-activity-7440065735311339520-DsjB/))
 
 
 
-\*\*What to do:\*\* Before writing any post, ask yourself: What do I actually think about this topic that not everyone would agree with? If your post could have been written by anyone, rewrite it until it could only have been written by you.
-
-
-
+**What to do:** Before writing any post, ask yourself: What do I actually think about this topic that not everyone would agree with? If your post could have been written by anyone, rewrite it until it could only have been written by you.
 
 
 
 
-\*The five decisions in this section: topic focus, profile quality, distribution strategy, audience clarity, and point of view are prerequisites. Skipping them and jumping straight to content creation is the most common reason B2B LinkedIn strategies stall within 60 days.\*
+
+**Section 1 summary:** The five decisions in this section: topic focus, profile quality, distribution strategy, audience clarity and point of view are prerequisites. Skipping them and jumping straight to content creation is the most common reason B2B LinkedIn strategies stall within 60 days.
 
 
 
-\## Section 2: Content Strategy — What to Post and Why
+
+
+#### 
+
+##### **Section 2: Content Strategy — What to Post and Why**
 
 
 
@@ -180,7 +180,7 @@ Knowing your topic and having a clean profile means nothing if your content itse
 
 
 
-\### 2.1 Stop Hiding Behind Complexity
+**2.1 Stop Hiding Behind Complexity**
 
 
 
@@ -190,7 +190,7 @@ The most common excuse B2B marketers give for weak content is that their industr
 
 Ross Simmonds puts it plainly: The biggest lie in B2B marketing is that your industry is too complex for good content. It is not complex. You are scared to take a stance. The formula is simple - take a position, defend it with data and watch your audience engage.
 
-(Source: Ross Simmonds, 31.03.2026, https://www.linkedin.com/posts/rosssimmonds\_the-biggest-lie-in-b2b-marketing-is-that-activity-7444351668688699393-K8cZ)
+(Ross Simmonds, 31.03.2026, [Source](https://www.linkedin.com/posts/rosssimmonds_the-biggest-lie-in-b2b-marketing-is-that-activity-7444351668688699393-K8cZ/))
 
 
 
@@ -198,19 +198,19 @@ This matters because B2B buyers on LinkedIn are not looking for feature lists or
 
 
 
-\*\*What to do:\*\* For every post you plan to write, ask yourself - am I sharing information or am I taking a position? Information is forgettable. Positions are shareable.
+**What to do:** For every post you plan to write, ask yourself - am I sharing information or am I taking a position? Information is forgettable. Positions are shareable.
 
 
 
 
 
-\### 2.2 The 95% Rule - Write for Buyers Who Are Not Ready Yet
+**2.2 The 95% Rule - Write for Buyers Who Are Not Ready Yet**
 
 
 
 One of the most important data points for any B2B SaaS content strategy comes from LinkedIn's own internal research: The average B2B deal takes 211 days and involves 22 people. Dave Gerhardt shared this directly from a conversation with LinkedIn VP of Marketing Davang Shah, adding that at any given time, 95% of your potential buyers are not actively in the market for what you sell.
 
-(Source: Dave Gerhardt, 19.03.2026, https://www.linkedin.com/posts/davegerhardt\_linkedin-is-the-number-one-channel-for-b2b-activity-7439654089778462720--k4c)
+(Dave Gerhardt, 19.03.2026, [Source](https://www.linkedin.com/posts/davegerhardt_linkedin-is-the-number-one-channel-for-b2b-activity-7439654089778462720--k4c/))
 
 
 
@@ -222,13 +222,13 @@ The goal of most of your content should be to stay visible and credible with the
 
 
 
-\*\*What to do:\*\* For every five posts you write, aim for at least four of them to deliver value with no ask attached. Save direct calls to action for one post in five, maximum.
+**What to do:** For every five posts you write, aim for at least four of them to deliver value with no ask attached. Save direct calls to action for one post in five, maximum.
 
 
 
 
 
-\### 2.3 Pick One Niche and Go All In
+**2.3 Pick One Niche and Go All In**
 
 
 
@@ -238,7 +238,7 @@ Broad content reaches everyone and influences no one. The B2B content strategies
 
 Dave Gerhardt interviewed Erin May, CMO at User Interviews, who grew the company from zero recurring revenue to $20M+ ARR over eight years. Her approach was to pick one niche audience and go all in, lead with ungated content and build a quarterly rhythm around high-impact posts that got the entire company involved. Gerhardt highlighted this as a model for how B2B content should be built — not around volume, but around sharp focus and consistency.
 
-(Source: Dave Gerhardt, 16.03.2026, https://www.linkedin.com/posts/davegerhardt\_are-you-putting-out-bangers-in-b2b-my-activity-7438167765066121216-sb7f)
+(Dave Gerhardt, 16.03.2026, [Source](https://www.linkedin.com/posts/davegerhardt_are-you-putting-out-bangers-in-b2b-my-activity-7438167765066121216-sb7f))
 
 
 
@@ -246,17 +246,17 @@ This aligns directly with what Richard van der Blom's algorithm data shows, that
 
 branding decision. It is what allows the algorithm to know who to show your content to.
 
-(Source: Richard van der Blom, 31.03.2026, https://www.linkedin.com/posts/richardvanderblom\_linkedin-doesnt-care-how-hard-you-worked-activity-7444649055810371584-GCWE)
+(Richard van der Blom, 31.03.2026, [Source](https://www.linkedin.com/posts/richardvanderblom_linkedin-doesnt-care-how-hard-you-worked-activity-7444649055810371584-GCWE/))
 
 
 
-\*\*What to do:\*\* Define your content niche as a specific problem you solve for a specific type of person. "B2B marketing" is not a niche. "Pipeline generation for early-stage SaaS founders" is.
+**What to do:** Define your content niche as a specific problem you solve for a specific type of person. "B2B marketing" is not a niche. "Pipeline generation for early-stage SaaS founders" is.
 
 
 
 
 
-\### 2.4 Ungated Content Wins on LinkedIn
+**2.4 Ungated Content Wins on LinkedIn**
 
 
 
@@ -268,21 +268,21 @@ hurts reach and trust.
 
 Amanda Natividad's zero-click content framework is built on a straightforward observation: In a feed-based environment, most people form opinions through passive exposure without ever clicking a link. Content that requires a click to deliver its value is content that most of your audience will never fully receive. She warns that in a zero-click world, sameness and friction mean you do not get noticed, amplified or cited.
 
-(Source: Amanda Natividad, 19.03.2026, https://www.linkedin.com/posts/amandanat\_the-future-of-ai-marketing-category-by-category-activity-7440065735311339520-DsjB)
+(Amanda Natividad, 19.03.2026, [Source](https://www.linkedin.com/posts/amandanat_the-future-of-ai-marketing-category-by-category-activity-7440065735311339520-DsjB/))
 
 
 
-Dave Gerhardt's interview with Erin May reinforces this as one of the clearest lessons from User Interviews' growth was the decision to lead with ungated content as a primary strategy. (Source: Dave Gerhardt, 16.03.2026, https://www.linkedin.com/posts/davegerhardt\_are-you-putting-out-bangers-in-b2b-my-activity-7438167765066121216-sb7f)
+Dave Gerhardt's interview with Erin May reinforces this as one of the clearest lessons from User Interviews' growth was the decision to lead with ungated content as a primary strategy. (Dave Gerhardt, 16.03.2026, [Source](https://www.linkedin.com/posts/davegerhardt_are-you-putting-out-bangers-in-b2b-my-activity-7438167765066121216-sb7f/))
 
 
 
-\*\*What to do:\*\* Deliver the full value of your content inside the post itself. If you have a framework, share the framework. If you have data, share the data. Do not make people click somewhere else to get the point.
+**What to do:** Deliver the full value of your content inside the post itself. If you have a framework, share the framework. If you have data, share the data. Do not make people click somewhere else to get the point.
 
 
 
 
 
-\### 2.5 Emotion Outperforms Utility
+**2.5 Emotion Outperforms Utility**
 
 
 
@@ -292,47 +292,47 @@ Data and feature led content performs consistently below content that connects e
 
 Koka Sexton's analysis of PandaDoc's LinkedIn presence is one of the clearest case studies of this principle. PandaDoc had 255,405 followers and was averaging 57 engagements per post which is a significant under performance for their audience size. Their top performing post was not about their product. It was about layoffs and hiring. It received 242 engagements, which was 323% above their average. Their worst-performing posts were AI prompt downloads and generic calls to action. Sexton's conclusion: Utility does not equal emotional gravity. The brand won when it positioned itself as a company helping teams navigate real human situations. It lost when it sounded like every other martech account.
 
-(Source: Koka Sexton, 01.03.2026, https://www.linkedin.com/posts/kokasexton\_lets-take-a-moment-and-focus-on-how-pandadoc-activity-7434696882372841472-gjTF)
+(Koka Sexton, 01.03.2026, [Source](https://www.linkedin.com/posts/kokasexton_lets-take-a-moment-and-focus-on-how-pandadoc-activity-7434696882372841472-gjTF/))
 
 
 
-\*\*What to do:\*\* Before publishing any post, ask yourself, does this connect to a real frustration, fear or ambition my audience has? If the honest answer is no, rewrite it until it does.
+**What to do:** Before publishing any post, ask yourself, does this connect to a real frustration, fear or ambition my audience has? If the honest answer is no, rewrite it until it does.
 
 
 
 
 
-\### 2.6 Consistency Matters More Than Volume
+**2.6 Consistency Matters More Than Volume**
 
 
 
 Lara Acosta built three businesses starting from a single decision: Pick a topic, write about it weekly and turn that content into products. She is direct about the simplicity of the approach. It was not sophisticated tactics or viral hacks that built her audience. It was showing up consistently on one topic over time.
 
-(Source: Lara Acosta, 27.03.2026, https://www.linkedin.com/posts/laraacostar\_i-used-to-think-a-9-5-was-safe-now-all-activity-7443276459525361665-Ynbm)
+(Lara Acosta, 27.03.2026, [Source](https://www.linkedin.com/posts/laraacostar_i-used-to-think-a-9-5-was-safe-now-all-activity-7443276459525361665-Ynbm))
 
 
 
 Justin Welsh makes the same point from a different angle. His post on distribution argues that the most valuable professional asset you can build is your own channel, but the only way that channel becomes valuable is through consistent output over time. A LinkedIn presence that goes quiet for weeks at a time does not build the compounding audience trust that makes content convert.
 
-(Source: Justin Welsh, 01.04.2026, https://www.linkedin.com/posts/justinwelsh\_you-only-capture-about-25-of-the-value-you-activity-7444349808343154688-fNLO)
+(Justin Welsh, 01.04.2026, [Source](https://www.linkedin.com/posts/justinwelsh_you-only-capture-about-25-of-the-value-you-activity-7444349808343154688-fNLO))
 
 
 
-\*\*What to do:\*\* Choose a posting frequency you can sustain for 90 days without burning out. Two posts per week done consistently for three months will outperform five posts per week done for three weeks and then abandoned.
-
-
-
-
-
-\*Section 2 summary: Post on one topic. Write for the 95% who are not yet ready to buy. Deliver full value inside every post without gating it. Connect to emotion, not just utility. And show up consistently, even if the frequency is modest. These are not opinions, they are the patterns that show up repeatedly across the research.\*
+**What to do:** Choose a posting frequency you can sustain for 90 days without burning out. Two posts per week done consistently for three months will outperform five posts per week done for three weeks and then abandoned.
 
 
 
 
 
+**\*Section 2 summary:** Post on one topic. Write for the 95% who are not yet ready to buy. Deliver full value inside every post without gating it. Connect to emotion, not just utility. And show up consistently, even if the frequency is modest. These are not opinions, they are the patterns that show up repeatedly across the research.\*
 
 
-\## Section 3: Engagement and Distribution - How to Grow Your Reach
+
+
+
+
+
+##### **Section 3: Engagement and Distribution - How to Grow Your Reach**
 
 
 
@@ -342,7 +342,7 @@ Publishing a post is the beginning of the work, not the end of it. How you engag
 
 
 
-\### 3.1 Understand How the Algorithm Actually Distributes Content
+**3.1 Understand How the Algorithm Actually Distributes Content**
 
 
 
@@ -352,7 +352,7 @@ Most LinkedIn advice focuses on what to post. Very little of it explains how Lin
 
 Richard van der Blom's 2026 Algorithm Insights Report identifies four things LinkedIn actually measures when deciding how far to distribute a post: Topic consistency, engagement from outside your existing network, how quickly the post topic is identifiable and how long the comment thread stays active. Creators who fail at even two of these four will see significantly reduced reach, regardless of how much effort went into the post itself.
 
-(Source: Richard van der Blom, 31.03.2026, https://www.linkedin.com/posts/richardvanderblom\_linkedin-doesnt-care-how-hard-you-worked-activity-7444649055810371584-GCWE)
+(Richard van der Blom, 31.03.2026, [Source](https://www.linkedin.com/posts/richardvanderblom_linkedin-doesnt-care-how-hard-you-worked-activity-7444649055810371584-GCWE))
 
 
 
@@ -360,11 +360,11 @@ Van der Blom also documented the impact of LinkedIn's 360Brew update, which shif
 
 receive 42% more reach, while posts from clients and prospects receive significantly less visibility in feeds. His conclusion is direct: Optimising purely for the algorithm is the wrong response to this shift. The better move is to focus on what the algorithm cannot touch such as your authority, your relationships and the trust you have already built.
 
-(Source: Richard van der Blom, 26.03.2026, https://www.linkedin.com/posts/richardvanderblom\_linkedins-360brew-update-quietly-reshuffled-activity-7440310481044717568-6GrI)
+(Richard van der Blom, 26.03.2026, [Source](https://www.linkedin.com/posts/richardvanderblom_linkedins-360brew-update-quietly-reshuffled-activity-7440310481044717568-6GrI))
 
 
 
-\*\*What to do:\*\* Before publishing any post, check these four things - Is the topic immediately clear from line one? Does it connect to your consistent content theme? Does it invite a
+**What to do:** Before publishing any post, check these four things - Is the topic immediately clear from line one? Does it connect to your consistent content theme? Does it invite a
 
 response from people outside your usual circle? And does it give people a reason to come back and comment more than once?
 
@@ -372,13 +372,13 @@ response from people outside your usual circle? And does it give people a reason
 
 
 
-\### 3.2 Comments From Strangers Beat Likes From Followers
+**3.2 Comments From Strangers Beat Likes From Followers**
 
 
 
 One of the most counterintuitive findings from Van der Blom's research is about who engages, not just how many people engage. Comments from outside your existing network carry significantly more algorithmic weight than reactions from your regular followers. One new voice in your comments does more for reach than fifty loyal followers clicking like. A comment thread that stays active for 72 hours outperforms a post with 100 likes that goes quiet by noon.
 
-(Source: Richard van der Blom, 31.03.2026, https://www.linkedin.com/posts/richardvanderblom\_linkedin-doesnt-care-how-hard-you-worked-activity-7444649055810371584-GCWE)
+(Richard van der Blom, 31.03.2026, [Source](https://www.linkedin.com/posts/richardvanderblom_linkedin-doesnt-care-how-hard-you-worked-activity-7444649055810371584-GCWE))
 
 
 
@@ -388,13 +388,13 @@ people who do not already know you is what drives distribution.
 
 
 
-\*\*What to do:\*\* Write posts that invite disagreement or debate from people outside your network, not for the sake of controversy, but because a post with a real position naturally attracts responses from people who hold a different view.
+**What to do:** Write posts that invite disagreement or debate from people outside your network, not for the sake of controversy, but because a post with a real position naturally attracts responses from people who hold a different view.
 
 
 
 
 
-\### 3.3 Treat Engagement as a Buyer Intelligence Feed
+**### 3.3 Treat Engagement as a Buyer Intelligence Feed**
 
 
 
@@ -404,17 +404,17 @@ Most teams measure LinkedIn performance by likes and impressions. Koka Sexton ar
 
 Sexton's framework reframes every post as a pipeline tool. When someone engages with your content, they are revealing information about themselves, their role, their company, their level of interest in your topic and whether their company is a potential fit. A founder who engages with your post three times in two weeks, works at a company that matches your ideal customer profile, and follows multiple people on your team is not just a fan. That is a buying signal. Sexton maps this into a five-step workflow: export LinkedIn activity, analyse posts and repeat engagers, map cross-profile engagement, identify warm accounts and turn signals into outreach plays.
 
-(Source: Koka Sexton, 09.03.2026, https://www.linkedin.com/posts/kokasexton\_your-linkedin-engagement-isnt-content-performance-activity-7435744529963671552-Rqo2)
+(Koka Sexton, 09.03.2026, [Source](https://www.linkedin.com/posts/kokasexton_your-linkedin-engagement-isnt-content-performance-activity-7435744529963671552-Rqo2/))
 
 
 
-\*\*What to do:\*\* Once a week, review who engaged with your recent posts. Look for repeat engagers, people from companies that match your target profile and anyone who commented rather than just liked. These are your warmest prospects. Reach out and reference the post they engaged with.
+**What to do:** Once a week, review who engaged with your recent posts. Look for repeat engagers, people from companies that match your target profile and anyone who commented rather than just liked. These are your warmest prospects. Reach out and reference the post they engaged with.
 
 
 
 
 
-\### 3.4 Networking Through Content, Not Cold Outreach
+**### 3.4 Networking Through Content, Not Cold Outreach**
 
 
 
@@ -424,11 +424,11 @@ The traditional approach to LinkedIn networking - connection requests, cold mess
 
 Justin Welsh offers a simple but specific framework for this. He recommends finding someone you admire, reading their recent content carefully, reaching out to tell them why it was meaningful and asking for nothing in return. Done consistently, once a day for a year this builds a network of people who actually know who you are, because you showed up for them first. The key distinction is that this only works if you also have a public content presence. Without it, your outreach has no context and no credibility.
 
-(Source: Justin Welsh, 10.03.2026, https://www.linkedin.com/posts/justinwelsh\_a-lot-of-business-comes-down-to-who-you-know-activity-7436029984021991424-N8j4)
+(Justin Welsh, 10.03.2026, [Source](https://www.linkedin.com/posts/justinwelsh_a-lot-of-business-comes-down-to-who-you-know-activity-7436029984021991424-N8j4))
 
 
 
-\*\*What to do:\*\* Identify five people in your target audience or industry whose content you genuinely find valuable. Engage with their posts thoughtfully and consistently for 30 days before
+**What to do:** Identify five people in your target audience or industry whose content you genuinely find valuable. Engage with their posts thoughtfully and consistently for 30 days before
 
 sending any kind of direct message. Let the engagement history do the introduction.
 
@@ -436,7 +436,7 @@ sending any kind of direct message. Let the engagement history do the introducti
 
 
 
-\### 3.5 Community Beats Awareness
+**### 3.5 Community Beats Awareness**
 
 
 
@@ -446,11 +446,11 @@ There is an important distinction between building awareness and building commun
 
 Koka Sexton's analysis of PandaDoc's LinkedIn strategy illustrates this gap clearly. Despite having 255,405 followers, 87% of their post engagements came from first-time engagers. Only 13% were repeat engagers. This means the account had strong discovery reach but almost no community. People found PandaDoc but did not come back. Sexton identifies the cause: A 0% author reply rate. The account was publishing content and then not showing up to the conversation it started.
 
-(Source: Koka Sexton, 01.03.2026, https://www.linkedin.com/posts/kokasexton\_lets-take-a-moment-and-focus-on-how-pandadoc-activity-7434696882372841472-gjTF)
+(Koka Sexton, 01.03.2026, [Source](https://www.linkedin.com/posts/kokasexton_lets-take-a-moment-and-focus-on-how-pandadoc-activity-7434696882372841472-gjTF))
 
 
 
-\*\*What to do:\*\* Reply to every comment on every post, especially in the first hour after publishing. This is not optional. It signals to the algorithm that your post is generating real
+**What to do:** Reply to every comment on every post, especially in the first hour after publishing. This is not optional. It signals to the algorithm that your post is generating real
 
 conversation, and it signals to your audience that there is a real person behind the content worth following.
 
@@ -458,25 +458,25 @@ conversation, and it signals to your audience that there is a real person behind
 
 
 
-\*Section 3 summary: Distribution is not accidental. It is the result of writing posts that earn responses from new audiences, engaging with comments quickly and consistently, treating your
+**Section 3 summary:** Distribution is not accidental. It is the result of writing posts that earn responses from new audiences, engaging with comments quickly and consistently, treating your
 
-engagement feed as a source of pipeline intelligence and building genuine relationships through content before attempting direct outreach. Reach without community is a leaky bucket.\*
-
-
-
-
-
-\## Section 4: Measurement — How to Know If It Is Working
-
-
-
-Most LinkedIn strategies fail not because the content was bad, but because the person running the strategy measured the wrong things and drew the wrong conclusions. This section covers what to measure, what to ignore, and how to connect LinkedIn activity to actual business outcomes.
+engagement feed as a source of pipeline intelligence and building genuine relationships through content before attempting direct outreach. Reach without community is a leaky bucket.
 
 
 
 
 
-\### 4.1 Vanity Metrics Will Lie to You
+##### **Section 4: Measurement - How to Know If It Is Working**
+
+
+
+Most LinkedIn strategies fail not because the content was bad, but because the person running the strategy measured the wrong things and drew the wrong conclusions. This section covers what to measure, what to ignore and how to connect LinkedIn activity to actual business outcomes.
+
+
+
+
+
+**4.1 Vanity Metrics Will Lie to You**
 
 
 
@@ -486,17 +486,17 @@ Likes and impressions are the most visible numbers on LinkedIn. They are also th
 
 Koka Sexton makes this case with data. PandaDoc, with over 255,000 followers was averaging 57 engagements per post. On the surface that looks like a content performance problem. But the deeper issue was invisible in the surface numbers: 87% of their engagers were first time engagers and only 13% were repeat engagers. This means the account had reach but no community. People were discovering PandaDoc but not returning. No vanity metric would have revealed this. It only became visible when the right question was asked, not "how many people engaged?" but "are the same people coming back?"
 
-(Source: Koka Sexton, 01.03.2026, https://www.linkedin.com/posts/kokasexton\_lets-take-a-moment-and-focus-on-how-pandadoc-activity-7434696882372841472-gjTF)
+(Koka Sexton, 01.03.2026, [Source](https://www.linkedin.com/posts/kokasexton_lets-take-a-moment-and-focus-on-how-pandadoc-activity-7434696882372841472-gjTF))
 
 
 
-\*\*What to measure instead:\*\* Track your repeat engager rate. If the same people are consistently engaging with your content over weeks and months, you are building community. If almost every engager is new and never returns, you have a discovery channel but not an audience.
+**What to measure instead:** Track your repeat engager rate. If the same people are consistently engaging with your content over weeks and months, you are building community. If almost every engager is new and never returns, you have a discovery channel but not an audience.
 
 
 
 
 
-\### 4.2 Measure Pipeline Signals, Not Post Performance
+**4.2 Measure Pipeline Signals, Not Post Performance**
 
 
 
@@ -508,7 +508,7 @@ Koka Sexton's framework treats every post as a pipeline intelligence tool. The f
 
 question is "did this post surface anyone worth talking to?"
 
-(Source: Koka Sexton, 09.03.2026, https://www.linkedin.com/posts/kokasexton\_your-linkedin-engagement-isnt-content-performance-activity-7435744529963671552-Rqo2)
+(Koka Sexton, 09.03.2026, [Source](https://www.linkedin.com/posts/kokasexton_lets-take-a-moment-and-focus-on-how-pandadoc-activity-7434696882372841472-gjTF))
 
 
 
@@ -518,7 +518,7 @@ and the conversations it starts.
 
 
 
-\*\*What to measure instead:\*\* Once a week, review your post engagements and ask three questions - did anyone from my target company profile engage? Did anyone engage more than once this
+**What to measure instead:** Once a week, review your post engagements and ask three questions - did anyone from my target company profile engage? Did anyone engage more than once this
 
 month? Did any engagement lead to a direct message or conversation? These three questions tell you more about whether your strategy is working than any dashboard.
 
@@ -526,13 +526,13 @@ month? Did any engagement lead to a direct message or conversation? These three 
 
 
 
-\### 4.3 Account for the Long Sales Cycle
+**4.3 Account for the Long Sales Cycle**
 
 
 
 One of the most important numbers in B2B SaaS content measurement is one most people never think about: Time. The average B2B deal takes 211 days and involves 22 people. LinkedIn VP of Marketing Davang Shah shared this data in a conversation with Dave Gerhardt, along with the finding that 95% of your potential buyers are not actively in market at any given time.
 
-(Source: Dave Gerhardt, 19.03.2026, https://www.linkedin.com/posts/davegerhardt\_linkedin-is-the-number-one-channel-for-b2b-activity-7439654089778462720--k4c)
+(Dave Gerhardt, 19.03.2026, [Source](https://www.linkedin.com/posts/davegerhardt_linkedin-is-the-number-one-channel-for-b2b-activity-7439654089778462720--k4c))
 
 
 
@@ -540,7 +540,7 @@ This has a direct implication for how you measure your LinkedIn strategy. If you
 
 
 
-\*\*What to measure instead:\*\* Set a minimum measurement window of 90 days before drawing any conclusions about whether your strategy is working. Track follower growth, repeat engager rate,
+**What to measure instead:** Set a minimum measurement window of 90 days before drawing any conclusions about whether your strategy is working. Track follower growth, repeat engager rate
 
 and direct messages received as leading indicators. Pipeline and revenue are lagging indicators that will follow much later.
 
@@ -548,7 +548,7 @@ and direct messages received as leading indicators. Pipeline and revenue are lag
 
 
 
-\### 4.4 Write Content That Helps CFOs Say Yes
+**4.4 Write Content That Helps CFOs Say Yes**
 
 
 
@@ -560,7 +560,7 @@ Peep Laja's research found that 51% of CFOs personally sign off on software purc
 
 late. They want to be involved early, they think in terms of ROI and the single thing that speeds up their approval the most is transparent pricing.
 
-(Source: Peep Laja, 25.03.2026, https://www.linkedin.com/posts/peeplaja\_half-of-cfos-sign-off-on-purchases-of-10k-activity-7440713788980449280-KhVo)
+(Peep Laja, 25.03.2026, [Source](https://www.linkedin.com/posts/peeplaja_half-of-cfos-sign-off-on-purchases-of-10k-activity-7440713788980449280-KhVo))
 
 
 
@@ -570,13 +570,13 @@ directly and removes pricing ambiguity will support the buying process at a stag
 
 
 
-\*\*What to measure instead:\*\* Track whether your content is generating conversations with economic buyers, not just practitioners. If every engagement comes from junior team members but no one at a director level or above ever responds, your content may be reaching the wrong audience within your target companies.
+**What to measure instead:** Track whether your content is generating conversations with economic buyers, not just practitioners. If every engagement comes from junior team members but no one at a director level or above ever responds, your content may be reaching the wrong audience within your target companies.
 
 
 
 
 
-\### 4.5 The Only Metric That Ultimately Matters
+**4.5 The Only Metric That Ultimately Matters**
 
 
 
@@ -590,25 +590,25 @@ else's assets, the company's product, the company's brand and the company's dist
 
 how you change that equation permanently.
 
-(Source: Justin Welsh, 01.04.2026, https://www.linkedin.com/posts/justinwelsh\_you-only-capture-about-25-of-the-value-you-activity-7444349808343154688-fNLO)
+(Justin Welsh, 01.04.2026, [Source](https://www.linkedin.com/posts/justinwelsh_you-only-capture-about-25-of-the-value-you-activity-7444349808343154688-fNLO))
 
 
 
-\*\*What to measure:\*\* Track how many people move from your LinkedIn content into an owned channel every month. This is the number that compounds. Everything else is rented.
-
-
-
-
-
-\*Section 4 summary: Stop measuring likes and impressions. Start measuring repeat engager rate, pipeline signals from engagement data and owned channel growth. Give your strategy at least 90 days before drawing conclusions, the average B2B deal takes 211 days and your content is working long before the numbers show it.\*
+**What to measure:** Track how many people move from your LinkedIn content into an owned channel every month. This is the number that compounds. Everything else is rented.
 
 
 
 
 
+**Section 4 summary:** Stop measuring likes and impressions. Start measuring repeat engager rate, pipeline signals from engagement data and owned channel growth. Give your strategy at least 90 days before drawing conclusions, the average B2B deal takes 211 days and your content is working long before the numbers show it.
 
 
-\## Where Experts Disagree
+
+
+
+
+
+##### Where Experts Disagree
 
 
 
@@ -618,27 +618,23 @@ A good playbook does not pretend that all experts agree. These are three areas w
 
 
 
-\### Disagreement 1 - Consistency vs Quality: Which Comes First?
+**Disagreement 1 - Consistency vs Quality: Which Comes First?**
 
 
 
-\*\*What Lara Acosta recommends:\*\*
+**What Lara Acosta recommends:** Post consistently and regularly. Acosta built three businesses by picking a topic, writing about it weekly and turning that content into products over time. Her argument is that volume builds momentum, showing up regularly is what trains the algorithm and keeps you visible to your audience. The act of publishing frequently also forces improvement over time.
 
-Post consistently and regularly. Acosta built three businesses by picking a topic, writing about it weekly and turning that content into products over time. Her argument is that volume builds momentum, showing up regularly is what trains the algorithm and keeps you visible to your audience. The act of publishing frequently also forces improvement over time.
-
-(Source: Lara Acosta, 27.03.2026, https://www.linkedin.com/posts/laraacostar\_i-used-to-think-a-9-5-was-safe-now-all-activity-7443276459525361665-Ynbm)
+(Lara Acosta, 27.03.2026, [Source](https://www.linkedin.com/posts/laraacostar_i-used-to-think-a-9-5-was-safe-now-all-activity-7443276459525361665-Ynbm))
 
 
 
-\*\*What Amanda Natividad recommends:\*\*
+**What Amanda Natividad recommends:** Quality and point of view matters more than frequency. Natividad warns that using AI or rushing content production results in what she calls "statistically likely word sequences" — polished but pointless content that has no real perspective. In a zero-click world, sameness means you do not get noticed, amplified or cited. Publishing frequently without a genuine point of view does not build an audience. It adds to the noise.
 
-Quality and point of view matters more than frequency. Natividad warns that using AI or rushing content production results in what she calls "statistically likely word sequences" — polished but pointless content that has no real perspective. In a zero-click world, sameness means you do not get noticed, amplified or cited. Publishing frequently without a genuine point of view does not build an audience. It adds to the noise.
-
-(Source: Amanda Natividad, 19.03.2026, https://www.linkedin.com/posts/amandanat\_the-future-of-ai-marketing-category-by-category-activity-7440065735311339520-DsjB)
+(Amanda Natividad, 19.03.2026, [Source](https://www.linkedin.com/posts/amandanat_the-future-of-ai-marketing-category-by-category-activity-7440065735311339520-DsjB))
 
 
 
-\*\*Which side this playbook takes - Amanda Natividad:\*\*
+**Which side this playbook takes - Amanda Natividad**
 
 I stand with Amanda Natividad on this. No matter how many products or services enter a market, people ultimately seek quality. Consistency builds momentum, but quality builds value and value is what creates a loyal audience that comes back, shares your content and eventually becomes customers.
 
@@ -656,25 +652,21 @@ first, then build a sustainable posting rhythm around it.
 
 
 
-\### Disagreement 2 - Algorithm Optimisation vs Relationship Focus
+**Disagreement 2 - Algorithm Optimisation vs Relationship Focus**
 
 
 
-\*\*What most creators recommend:\*\*
-
-Optimise for the algorithm. Study hooks, formats, hashtags and posting times. Follow what is currently working, replicate the structure of high performing posts and adjust your approach as the algorithm changes. This school of thought treats LinkedIn growth as primarily a technical problem with technical solutions.
+**What most creators recommend:** Optimise for the algorithm. Study hooks, formats, hashtags and posting times. Follow what is currently working, replicate the structure of high performing posts and adjust your approach as the algorithm changes. This school of thought treats LinkedIn growth as primarily a technical problem with technical solutions.
 
 
 
-\*\*What Richard van der Blom recommends:\*\*
+**What Richard van der Blom recommends:** After documenting LinkedIn's 360Brew update across 100+ accounts, Van der Blom found that the feed has shifted from relationship based to topic based, with posts from clients and prospects losing up to 56% reach while random peers in the same topic cluster gained 42%. His conclusion was direct, optimising purely for the algorithm is the wrong response to this shift. The better move is to focus on what the algorithm cannot touch, your authority, your relationships and the trust you have already built.
 
-After documenting LinkedIn's 360Brew update across 100+ accounts, Van der Blom found that the feed has shifted from relationship based to topic based, with posts from clients and prospects losing up to 56% reach while random peers in the same topic cluster gained 42%. His conclusion was direct, optimising purely for the algorithm is the wrong response to this shift. The better move is to focus on what the algorithm cannot touch, your authority, your relationships and the trust you have already built.
-
-(Source: Richard van der Blom, 26.03.2026, https://www.linkedin.com/posts/richardvanderblom\_linkedins-360brew-update-quietly-reshuffled-activity-7440310481044717568-6GrI)
+(Richard van der Blom, 26.03.2026, [Source](https://www.linkedin.com/posts/richardvanderblom_linkedins-360brew-update-quietly-reshuffled-activity-7440310481044717568-6GrI))
 
 
 
-\*\*Which side this playbook takes - Richard van der Blom:\*\*
+**Which side this playbook takes - Richard van der Blom**
 
 I stand with Richard van der Blom on this. The creator market on LinkedIn is saturated with people chasing hooks, formats and algorithmic triggers. The problem with this approach is that it is a race with no finish line, the algorithm changes, the tactics expire and the creators who built their strategy around them fade away.
 
@@ -690,33 +682,23 @@ Building trust takes longer than optimising a hook. But it does not expire when 
 
 
 
-\### Disagreement 3 - Content as Distribution vs Content as Pipeline Intelligence
+**Disagreement 3 - Content as Distribution vs Content as Pipeline Intelligence**
 
 
 
-\*\*What Justin Welsh recommends:\*\*
+**What Justin Welsh recommends:** Build content to grow your own distribution channel. Welsh's argument is that most professionals give away 75% of the value they create by relying on someone else's assets, the company's product, brand and reach. LinkedIn content is the tool you use to build an audience you eventually own, converting followers into an email list or community that no platform can take away.
 
-Build content to grow your own distribution channel. Welsh's argument is that most professionals give away 75% of the value they create by relying on someone else's assets, the company's
-
-product, brand and reach. LinkedIn content is the tool you use to build an audience you eventually own, converting followers into an email list or community that no platform can take away.
-
-(Source: Justin Welsh, 01.04.2026, https://www.linkedin.com/posts/justinwelsh\_you-only-capture-about-25-of-the-value-you-activity-7444349808343154688-fNLO)
+(Justin Welsh, 01.04.2026, [Source](https://www.linkedin.com/posts/justinwelsh_you-only-capture-about-25-of-the-value-you-activity-7444349808343154688-fNLO))
 
 
 
-\*\*What Koka Sexton recommends:\*\*
+**What Koka Sexton recommends:** Content is primarily a pipeline intelligence tool. Sexton's framework reframes LinkedIn engagement as a buyer signal feed rather than an audience building mechanism. Every like, comment and repeat engagement reveals information about a potential buyer, their role, their company, their level of interest and whether they are warming up to a purchase. The goal is not to grow an audience but to surface the right people within that audience and convert them into pipeline.
 
-Content is primarily a pipeline intelligence tool. Sexton's framework reframes LinkedIn engagement as a buyer signal feed rather than an audience building mechanism. Every like, comment
-
-and repeat engagement reveals information about a potential buyer, their role, their company, their level of interest and whether they are warming up to a purchase. The goal is not to
-
-grow an audience but to surface the right people within that audience and convert them into pipeline.
-
-(Source: Koka Sexton, 09.03.2026, https://www.linkedin.com/posts/kokasexton\_your-linkedin-engagement-isnt-content-performance-activity-7435744529963671552-Rqo2)
+(Koka Sexton, 09.03.2026, [Source](https://www.linkedin.com/posts/kokasexton_your-linkedin-engagement-isnt-content-performance-activity-7435744529963671552-Rqo2))
 
 
 
-\*\*Which side this playbook takes - Koka Sexton:\*\*
+**Which side this playbook takes - Koka Sexton**
 
 I stand with Koka Sexton on this, with an important clarification. Building a distribution channel is a worthwhile long term goal, but a large audience does not automatically mean a pipeline of buyers. Follower count and buying intent are two completely different things.
 
@@ -734,7 +716,7 @@ The practical advantage is also significant. Welsh's distribution approach requi
 
 
 
-\## What I Rejected and Why
+##### What I Rejected and Why
 
 
 
@@ -744,21 +726,17 @@ A playbook is defined as much by what it leaves out as by what it includes. Thes
 
 
 
-\### Rejected Idea 1 - Ungated Content as the Default Strategy
+**Rejected Idea 1 - Ungated Content as the Default Strategy**
 
 
 
-\*\*What the research says:\*\*
+**What the research says:** Dave Gerhardt's interview with Erin May at User Interviews highlighted ungated content as a core driver of their growth from zero to $20M+ ARR. Amanda Natividad's zero-click content framework is built on the same principle, deliver full value inside the post itself, remove friction and let the content spread freely.
 
-Dave Gerhardt's interview with Erin May at User Interviews highlighted ungated content as a core driver of their growth from zero to $20M+ ARR. Amanda Natividad's zero-click content framework is built on the same principle, deliver full value inside the post itself, remove friction and let the content spread freely.
-
-(Source: Dave Gerhardt, 16.03.2026, https://www.linkedin.com/posts/davegerhardt\_are-you-putting-out-bangers-in-b2b-my-activity-7438167765066121216-sb7f)
+(Dave Gerhardt, 16.03.2026, [Source](https://www.linkedin.com/posts/davegerhardt_are-you-putting-out-bangers-in-b2b-my-activity-7438167765066121216-sb7f))
 
 
 
-\*\*Why I rejected it:\*\*
-
-The ungated content argument is compelling for awareness and reach and I do not dispute that it builds a larger top of funnel. The problem is what it removes in the process.
+**Why I rejected it:** The ungated content argument is compelling for awareness and reach and I do not dispute that it builds a larger top of funnel. The problem is what it removes in the process.
 
 
 
@@ -790,23 +768,17 @@ A hybrid approach, where everyday content is ungated and proprietary research or
 
 
 
-
-
-\### Rejected Idea 2 - AI as a Primary Content Production Engine
-
-
-
-\*\*What the research says:\*\*
-
-Amanda Natividad acknowledges that AI is useful for outlining, rough drafts and repurposing content across formats. She does not dismiss it entirely. Instead, she recommends it for specific, well supervised tasks where the input and output are tightly controlled.
-
-(Source: Amanda Natividad, 19.03.2026, https://www.linkedin.com/posts/amandanat\_the-future-of-ai-marketing-category-by-category-activity-7440065735311339520-DsjB)
+**Rejected Idea 2 - AI as a Primary Content Production Engine**
 
 
 
-\*\*Why I rejected it:\*\*
+**What the research says:** Amanda Natividad acknowledges that AI is useful for outlining, rough drafts and repurposing content across formats. She does not dismiss it entirely. Instead, she recommends it for specific, well supervised tasks where the input and output are tightly controlled.
 
-The case for AI as a primary content engine is stronger than most people in the quality first camp are willing to admit. Modern models can synthesize complex data, maintain consistent brand voices and produce content at a speed and scale that human teams cannot match. In markets where 24/7 presence and hyper-personalisation are increasingly the baseline, a manual first content approach does carry a real structural disadvantage. Competitors using AI effectively are producing more content, testing more angles and staying visible in more conversations simultaneously.
+(Amanda Natividad, 19.03.2026, [Source](https://www.linkedin.com/posts/amandanat_the-future-of-ai-marketing-category-by-category-activity-7440065735311339520-DsjB))
+
+
+
+**Why I rejected it:** The case for AI as a primary content engine is stronger than most people in the quality first camp are willing to admit. Modern models can synthesize complex data, maintain consistent brand voices and produce content at a speed and scale that human teams cannot match. In markets where 24/7 presence and hyper-personalisation are increasingly the baseline, a manual first content approach does carry a real structural disadvantage. Competitors using AI effectively are producing more content, testing more angles and staying visible in more conversations simultaneously.
 
 
 
@@ -842,7 +814,7 @@ workflow and treating human input as optional is how a brand disappears into the
 
 
 
-\## My Original Ideas
+##### My Original Ideas
 
 
 
@@ -852,13 +824,11 @@ This section contains an idea that did not appear in any of the 20 LinkedIn post
 
 
 
-\### The Internal Expert Strategy - Activating Non-Marketing Voices
+**The Internal Expert Strategy - Activating Non-Marketing Voices**
 
 
 
-\*\*The idea:\*\*
-
-Most B2B SaaS companies treat LinkedIn as a marketing department responsibility. The marketing team creates the content, manages the posting schedule and tracks the performance. Everyone else in the company stays off the platform or posts occasionally without any coordination.
+**The idea:** Most B2B SaaS companies treat LinkedIn as a marketing department responsibility. The marketing team creates the content, manages the posting schedule and tracks the performance. Everyone else in the company stays off the platform or posts occasionally without any coordination.
 
 
 
@@ -866,13 +836,9 @@ The Internal Expert Strategy challenges this model. The idea is to deliberately 
 
 
 
-\*\*Why it could work:\*\*
+**Why it could work:** The first reason is algorithmic. Richard van der Blom's 2026 Algorithm Insights Report found that comments from outside your existing network carry significantly more algorithmic weight than reactions from your regular followers. When a customer success manager comments on the founder's post, they are bringing their own separate network into contact with that content. When the founder replies, that exchange is visible to both networks. Three people from the same company genuinely engaging with each other's content are effectively tripling their organic reach without any additional budget or paid amplification.
 
-
-
-The first reason is algorithmic. Richard van der Blom's 2026 Algorithm Insights Report found that comments from outside your existing network carry significantly more algorithmic weight than reactions from your regular followers. When a customer success manager comments on the founder's post, they are bringing their own separate network into contact with that content. When the founder replies, that exchange is visible to both networks. Three people from the same company genuinely engaging with each other's content are effectively tripling their organic reach without any additional budget or paid amplification.
-
-(Source: Richard van der Blom, 31.03.2026, https://www.linkedin.com/posts/richardvanderblom\_linkedin-doesnt-care-how-hard-you-worked-activity-7444649055810371584-GCWE)
+(Source: Richard van der Blom, 31.03.2026, [Source](https://www.linkedin.com/posts/richardvanderblom_linkedin-doesnt-care-how-hard-you-worked-activity-7444649055810371584-GCWE))
 
 
 
@@ -902,11 +868,11 @@ The closest any expert in this research comes to this idea is Dave Gerhardt's me
 
 But even that stops short of treating non-marketing employees as independent content voices with their own distinct perspectives and their own audiences.
 
-(Source: Dave Gerhardt, 16.03.2026, https://www.linkedin.com/posts/davegerhardt\_are-you-putting-out-bangers-in-b2b-my-activity-7438167765066121216-sb7f)
+(Source: Dave Gerhardt, 16.03.2026, [Source](https://www.linkedin.com/posts/davegerhardt_are-you-putting-out-bangers-in-b2b-my-activity-7438167765066121216-sb7f))
 
 
 
-\*\*What this looks like in practice:\*\*
+**What this looks like in practice**
 
 \- The founder posts once a week on the core belief behind the product and the market problem it solves.
 
@@ -928,7 +894,7 @@ This is not a complicated system. It requires no budget and no tools. It require
 
 
 
-\## Weaknesses of This Playbook
+##### Weaknesses of This Playbook
 
 
 
@@ -938,7 +904,7 @@ No playbook is complete. This section is an honest account of what this playbook
 
 
 
-\### Weakness 1 - The Research Window Is Too Narrow
+**Weakness 1 - The Research Window Is Too Narrow**
 
 
 
@@ -956,7 +922,7 @@ This playbook should be treated as a starting point that requires regular updati
 
 
 
-\### Weakness 2 - Nothing Here Has Been Tested by the Author
+**Weakness 2 - Nothing Here Has Been Tested by the Author**
 
 
 
@@ -980,7 +946,7 @@ your specific voice.
 
 
 
-\### Weakness 3 - The Original Idea Is a Hypothesis, Not a Proven Strategy
+**Weakness 3 - The Original Idea Is a Hypothesis, Not a Proven Strategy**
 
 
 
@@ -1002,7 +968,7 @@ This does not mean the idea should be dismissed. It means it should be treated a
 
 
 
-\### Weakness 4 - This Playbook Does Not Address Paid Amplification
+**Weakness 4 - This Playbook Does Not Address Paid Amplification**
 
 
 
@@ -1020,7 +986,7 @@ and paid distribution. A complete playbook would address how these two approache
 
 amplification extends the reach of content that has already proven itself organically.
 
-(Source: Dave Gerhardt, 19.03.2026, https://www.linkedin.com/posts/davegerhardt\_linkedin-is-the-number-one-channel-for-b2b-activity-7439654089778462720--k4c)
+(Dave Gerhardt, 19.03.2026, [Source](https://www.linkedin.com/posts/davegerhardt_linkedin-is-the-number-one-channel-for-b2b-activity-7439654089778462720--k4c))
 
 
 
@@ -1034,7 +1000,7 @@ paid strategy.
 
 
 
-\## Who I Would NOT Recommend Following and Why
+##### Who I Would NOT Recommend Following and Why
 
 
 
@@ -1044,7 +1010,7 @@ This section is not about dismissing experts. Every person on this list has genu
 
 
 
-\### Obaid Durrani - Do Not Follow on LinkedIn for This Purpose
+**Obaid Durrani - Do Not Follow on LinkedIn for This Purpose**
 
 
 
@@ -1074,7 +1040,7 @@ thinking on LinkedIn content currently lives, and it is significantly more valua
 
 
 
-\### Chris Walker - Follow Selectively and With Awareness of the Shift
+**Chris Walker - Follow Selectively and With Awareness of the Shift**
 
 
 
@@ -1094,9 +1060,7 @@ predominantly about personal growth and consciousness rather than pipeline gener
 
 
 
-This is not a permanent verdict on Walker as a thinker. His earlier work remains valuable and his strategic instincts are sharp. But his content has shifted and recommending him as a
-
-current source for LinkedIn organic content strategy without that caveat would be misleading.
+This is not a permanent verdict on Walker as a thinker. His earlier work remains valuable and his strategic instincts are sharp. But his content has shifted and recommending him as current source for LinkedIn organic content strategy without that caveat would be misleading.
 
 
 
@@ -1106,7 +1070,7 @@ The recommendation is this, go back through Walker's LinkedIn archive and read h
 
 
 
-\### A Note on the Other Eight Experts
+##### A Note on the Other Eight Experts
 
 
 
