@@ -172,7 +172,7 @@ Amanda Natividad warns that using AI to generate content without adding genuine 
 
 #### 
 
-### **Section 2: Content Strategy — What to Post and Why**
+### **Section 2: Content Strategy - What to Post and Why**
 
 
 
@@ -262,9 +262,7 @@ branding decision. It is what allows the algorithm to know who to show your cont
 
 
 
-Gating content by hiding it behind a form that requires an email address made sense when the web was the primary distribution channel. On LinkedIn in 2026, it is a strategy that actively
-
-hurts reach and trust.
+Gating content by hiding it behind a form that requires an email address made sense when the web was the primary distribution channel. On LinkedIn in 2026, it is a strategy which might actively hurt reach and trust.
 
 
 
@@ -326,7 +324,7 @@ Justin Welsh makes the same point from a different angle. His post on distributi
 
 
 
-**\*Section 2 summary:** Post on one topic. Write for the 95% who are not yet ready to buy. Deliver full value inside every post without gating it. Connect to emotion, not just utility. And show up consistently, even if the frequency is modest. These are not opinions, they are the patterns that show up repeatedly across the research.\*
+**Section 2 summary:** Post on one topic. Write for the 95% who are not yet ready to buy. Deliver full value inside every post without gating it. Connect to emotion, not just utility. And show up consistently, even if the frequency is modest. These are not opinions, they are the patterns that show up repeatedly across the research.
 
 
 
@@ -358,17 +356,13 @@ Richard van der Blom's 2026 Algorithm Insights Report identifies four things Lin
 
 
 
-Van der Blom also documented the impact of LinkedIn's 360Brew update, which shifted the feed from relationship based to topic based. Posts from people writing about the same subject now
-
-receive 42% more reach, while posts from clients and prospects receive significantly less visibility in feeds. His conclusion is direct: Optimising purely for the algorithm is the wrong response to this shift. The better move is to focus on what the algorithm cannot touch such as your authority, your relationships and the trust you have already built.
+Van der Blom also documented the impact of LinkedIn's 360Brew update, which shifted the feed from relationship based to topic based. Posts from people writing about the same subject receives 42% more reach, while posts from clients and prospects receive significantly less visibility in feeds. His conclusion is direct: Optimising purely for the algorithm is the wrong response to this shift. The better move is to focus on what the algorithm cannot touch such as your authority, your relationships and the trust you have already built.
 
 (Richard van der Blom, 26.03.2026, [Source](https://www.linkedin.com/posts/richardvanderblom_linkedins-360brew-update-quietly-reshuffled-activity-7440310481044717568-6GrI))
 
 
 
-**What to do:** Before publishing any post, check these four things - Is the topic immediately clear from line one? Does it connect to your consistent content theme? Does it invite a
-
-response from people outside your usual circle? And does it give people a reason to come back and comment more than once?
+**What to do:** Before publishing any post, check these four things - Is the topic immediately clear from line one? Does it connect to your consistent content theme? Does it invite a response from people outside your usual circle? And does it give people a reason to come back and comment more than once?
 
 
 
@@ -384,9 +378,7 @@ One of the most counterintuitive findings from Van der Blom's research is about 
 
 
 
-This has a direct implication for how you write posts. Content that only your existing followers agree with will generate likes but not reach. Content that provokes a genuine response from
-
-people who do not already know you is what drives distribution.
+This has a direct implication for how you write posts. Content that only your existing followers agree with will generate likes but not reach. Content that provokes a genuine responses from people who do not already know you is what drives distribution.
 
 
 
@@ -430,9 +422,7 @@ Justin Welsh offers a simple but specific framework for this. He recommends find
 
 
 
-**What to do:** Identify five people in your target audience or industry whose content you genuinely find valuable. Engage with their posts thoughtfully and consistently for 30 days before
-
-sending any kind of direct message. Let the engagement history do the introduction.
+**What to do:** Identify five people in your target audience or industry whose content you genuinely find valuable. Engage with their posts thoughtfully and consistently for 30 days before sending any kind of direct message. Let the engagement history do the introduction.
 
 
 
@@ -452,9 +442,7 @@ Koka Sexton's analysis of PandaDoc's LinkedIn strategy illustrates this gap clea
 
 
 
-**What to do:** Reply to every comment on every post, especially in the first hour after publishing. This is not optional. It signals to the algorithm that your post is generating real
-
-conversation, and it signals to your audience that there is a real person behind the content worth following.
+**What to do:** Reply to every comment on every post, especially in the first hour after publishing. This is not optional. It signals to the algorithm that your post is generating real conversation and it signals to your audience that there is a real person behind the content worth following.
 
 
 
@@ -506,23 +494,17 @@ The most important shift in how you think about LinkedIn measurement is moving f
 
 
 
-Koka Sexton's framework treats every post as a pipeline intelligence tool. The five-step workflow he outlines - export LinkedIn activity, analyse posts and repeat engagers, map cross profile engagement, identify warm accounts and convert signals into outreach plays, reframes LinkedIn measurement entirely. The question is not "did this post perform well?" The
-
-question is "did this post surface anyone worth talking to?"
+Koka Sexton's framework treats every post as a pipeline intelligence tool. The five-step workflow he outlines - export LinkedIn activity, analyse posts and repeat engagers, map cross profile engagement, identify warm accounts and convert signals into outreach plays, reframes LinkedIn measurement entirely. The question is not "did this post perform well?" The question is "did this post surface anyone worth talking to?"
 
 (Koka Sexton, 09.03.2026, [Source](https://www.linkedin.com/posts/kokasexton_lets-take-a-moment-and-focus-on-how-pandadoc-activity-7434696882372841472-gjTF))
 
 
 
-This is a fundamentally different way of running a LinkedIn strategy. Instead of optimising for reach and impressions, you are optimising for the quality of people your content attracts
-
-and the conversations it starts.
+This is a fundamentally different way of running a LinkedIn strategy. Instead of optimising for reach and impressions, you are optimising for the quality of people your content attracts conversations it start.
 
 
 
-**What to measure instead:** Once a week, review your post engagements and ask three questions - did anyone from my target company profile engage? Did anyone engage more than once this
-
-month? Did any engagement lead to a direct message or conversation? These three questions tell you more about whether your strategy is working than any dashboard.
+**What to measure instead:** Once a week, review your post engagements and ask three questions - did anyone from my target company profile engage? Did anyone engage more than once this month? Did any engagement lead to a direct message or conversation? These three questions tell you more about whether your strategy is working than any dashboard.
 
 
 
@@ -542,9 +524,7 @@ This has a direct implication for how you measure your LinkedIn strategy. If you
 
 
 
-**What to measure instead:** Set a minimum measurement window of 90 days before drawing any conclusions about whether your strategy is working. Track follower growth, repeat engager rate
-
-and direct messages received as leading indicators. Pipeline and revenue are lagging indicators that will follow much later.
+**What to measure instead:** Set a minimum measurement window of 90 days before drawing any conclusions about whether your strategy is working. Track follower growth, repeat engager rate and direct messages received as leading indicators. Pipeline and revenue are lagging indicators that will follow much later.
 
 
 
@@ -558,17 +538,13 @@ For B2B SaaS specifically, measurement cannot stop at marketing metrics. Your co
 
 
 
-Peep Laja's research found that 51% of CFOs personally sign off on software purchases of $10,000 or less and that CFOs consistently report being brought into the buying process too
-
-late. They want to be involved early, they think in terms of ROI and the single thing that speeds up their approval the most is transparent pricing.
+Peep Laja's research found that 51% of CFOs personally sign off on software purchases of $10,000 or less and that CFOs consistently report being brought into the buying process too late. They want to be involved early, they think in terms of ROI and the single thing that speeds up their approval the most is transparent pricing.
 
 (Peep Laja, 25.03.2026, [Source](https://www.linkedin.com/posts/peeplaja_half-of-cfos-sign-off-on-purchases-of-10k-activity-7440713788980449280-KhVo))
 
 
 
-This means a portion of your LinkedIn content should be written with financial decision makers in mind, not just end users. Content that makes the business case clearly, addresses ROI
-
-directly and removes pricing ambiguity will support the buying process at a stage that most LinkedIn content never reaches.
+This means a portion of your LinkedIn content should be written with financial decision makers in mind, not just end users. Content that makes the business case clearly, addresses returns on investments directly and removes pricing ambiguity will support the buying process at a stage that most LinkedIn content never reaches.
 
 
 
@@ -586,11 +562,7 @@ All of the measurements above are intermediate signals. They help you course cor
 
 
 
-Justin Welsh built a $5M+ one-person business on this principle. His argument is that most professionals capture only about 25% of the value they create because they rely on someone
-
-else's assets, the company's product, the company's brand and the company's distribution. Building your own LinkedIn audience and converting it into an owned channel like an email list is
-
-how you change that equation permanently.
+Justin Welsh built a $5M+ one-person business on this principle. His argument is that most professionals capture only about 25% of the value they create because they rely on someone else's assets, the company's product, the company's brand and the company's distribution. Building your own LinkedIn audience and converting it into an owned channel like an email list is how you change that equation permanently.
 
 (Justin Welsh, 01.04.2026, [Source](https://www.linkedin.com/posts/justinwelsh_you-only-capture-about-25-of-the-value-you-activity-7444349808343154688-fNLO))
 
@@ -630,7 +602,7 @@ A good playbook does not pretend that all experts agree. These are three areas w
 
 
 
-**What Amanda Natividad recommends:** Quality and point of view matters more than frequency. Natividad warns that using AI or rushing content production results in what she calls "statistically likely word sequences" — polished but pointless content that has no real perspective. In a zero-click world, sameness means you do not get noticed, amplified or cited. Publishing frequently without a genuine point of view does not build an audience. It adds to the noise.
+**What Amanda Natividad recommends:** Quality and point of view matters more than frequency. Natividad warns that using AI or rushing content production results in what she calls "statistically likely word sequences" - polished but pointless content that has no real perspective. In a zero-click world, sameness means you do not get noticed, amplified or cited. Publishing frequently without a genuine point of view does not build an audience. It adds to the noise.
 
 (Amanda Natividad, 19.03.2026, [Source](https://www.linkedin.com/posts/amandanat_the-future-of-ai-marketing-category-by-category-activity-7440065735311339520-DsjB))
 
@@ -646,9 +618,7 @@ A creator who posts five times a week with nothing original to say will generate
 
 
 
-This does not mean frequency is irrelevant. It means frequency without quality is a treadmill, a lot of effort that takes you nowhere. The right order is develop a clear point of view
-
-first, then build a sustainable posting rhythm around it.
+This does not mean frequency is irrelevant. It means frequency without quality is a treadmill, a lot of effort that takes you nowhere. The right order is develop a clear point of view at first and then build a sustainable posting rhythm around it.
 
 
 
@@ -742,9 +712,7 @@ A playbook is defined as much by what it leaves out as by what it includes. Thes
 
 
 
-A gate is not just a barrier. It is a filter and a signal. When someone fills out a form to access a piece of content, they are demonstrating a level of intent that a passive scroll never
-
-captures. That act of trading information for value separates a serious buyer from a casual browser, a distinction that matters enormously to a sales team that has limited time and cannot afford to chase unqualified contacts.
+A gate is not just a barrier. It is a filter and a signal. When someone fills out a form to access a piece of content, they are demonstrating a level of intent that a passive scroll would never capture. That act of trading information for value separates a serious buyer from a casual browser, a distinction that matters enormously to a sales team that has limited time and cannot afford to chase unqualified contacts.
 
 
 
@@ -752,9 +720,7 @@ Removing the gate also removes the firmographic data that makes account based ma
 
 
 
-There is also a perception problem. Content that requires nothing to access is, by definition, free. Content that requires a commitment, even a small one is perceived as more exclusive
-
-and more valuable. A proprietary research report behind a form feels like an asset. The same report published openly feels like a blog post.
+There is also a perception problem. Content that requires nothing to access is, by definition, free. Content that requires a commitment, even a small one is perceived as more exclusive and more valuable. A proprietary research report behind a form feels like an asset. The same report published openly feels like a blog post.
 
 
 
@@ -794,11 +760,7 @@ What it gets wrong is the nature of the problem it is solving.
 
 LinkedIn organic content for B2B SaaS does not fail because it is produced too slowly. It fails because it has nothing original to say. The feed is already saturated with content that is
 
-technically competent, consistently formatted and completely forgettable. AI, by its nature, produces outputs that are statistically likely, meaning it generates the most probable
-
-version of whatever you ask it for. In a market where the most probable version of B2B content already exists in abundance, adding more of it faster is not a competitive advantage. It is
-
-acceleration toward irrelevance.
+technically competent, consistently formatted and completely forgettable. AI, by its nature, produces outputs that are statistically likely, meaning it generates the most probable version of whatever you ask it for. In a market where the most probable version of B2B content already exists in abundance, adding more of it faster is not a competitive advantage. It will be acceleration toward irrelevance.
 
 
 
@@ -806,9 +768,7 @@ The content that cuts through on LinkedIn, the posts that get saved, shared and 
 
 
 
-This playbook does not reject AI as a tool. It rejects AI as a strategy. Using AI to outline, reformat and accelerate production is sensible. Placing AI at the centre of the content
-
-workflow and treating human input as optional is how a brand disappears into the noise it helped create.
+This playbook does not reject AI as a tool. It rejects AI as a strategy. Using AI to outline, reformat and accelerate production is sensible. Placing AI at the centre of the contents  workflow and treating human input as optional is how a brand disappears into the noise it helped create.
 
 
 
@@ -844,9 +804,7 @@ The Internal Expert Strategy challenges this model. The idea is to deliberately 
 
 
 
-The second reason is more important than the algorithm and it comes from a gap I noticed across all 20 posts in the research. Marketing professionals are trained to create hooks, drive 
-
-urgency and position against competitors. These are legitimate skills. But they produce a recognisable type of content, a content that tells you what a product does, why it beats the competition and why you should act now. Experienced B2B buyers have learned to filter this out.
+The second reason is more important than the algorithm and it comes from a gap I noticed across all 20 posts in the research. Marketing professionals are trained to create hooks, drives urgency and position against competitors. These are legitimate skills. But they produce a recognisable type of content, a content that tells you what a product does, why it beats the competition and why you should act now. Experienced B2B buyers have learned to filter this out.
 
 
 
@@ -964,17 +922,13 @@ Every section of this playbook focuses exclusively on organic content. This is a
 
 
 
-LinkedIn's own internal data, shared by LinkedIn VP of Marketing Davang Shah in a conversation with Dave Gerhardt, identifies thought leader ads as a growing and effective format for B2B
-
-marketers. Thought leader ads amplify organic posts from individual employees rather than company pages, meaning they sit directly at the intersection of organic content strategy and paid distribution. A complete playbook would address how these two approaches work together, how organic content informs which posts are worth amplifying and how paid amplification extends the reach of content that has already proven itself organically.
+LinkedIn's own internal data, shared by LinkedIn VP of Marketing Davang Shah in a conversation with Dave Gerhardt, identifies thought leader ads as a growing and effective format for the B2B marketers. Thought leader ads amplify organic posts from individual employees rather than company pages, meaning they sit directly at the intersection of organic content strategy and paid distribution. A complete playbook would address how these two approaches work together, how organic content informs which posts are worth amplifying and how paid amplification extends the reach of content that has already proven itself organically.
 
 (Dave Gerhardt, 19.03.2026, [Source](https://www.linkedin.com/posts/davegerhardt_linkedin-is-the-number-one-channel-for-b2b-activity-7439654089778462720--k4c))
 
 
 
-This playbook does not cover that intersection. A reader who wants to build a full-funnel LinkedIn strategy will need to supplement this playbook with a separate resource on LinkedIn
-
-paid strategy.
+This playbook does not cover that intersection. A reader who wants to build a full-funnel LinkedIn strategy will need to supplement this playbook with a separate resource on LinkedIn paid strategy.
 
 
 
@@ -1012,9 +966,7 @@ For someone trying to learn LinkedIn organic content strategy, following Durrani
 
 
 
-The recommendation is specific: Do not follow Obaid Durrani on LinkedIn if your goal is to learn organic content strategy. Do listen to his podcasts. That is where his genuine strategic
-
-thinking on LinkedIn content currently lives, and it is significantly more valuable than what his LinkedIn feed currently shows.
+The recommendation is specific: Do not follow Obaid Durrani on LinkedIn if your goal is to learn organic content strategy. Do listen to his podcasts. That is where his strategic thinking on LinkedIn content currently lives, and it is significantly more valuable than what his LinkedIn feed currently shows.
 
 
 
@@ -1024,9 +976,7 @@ thinking on LinkedIn content currently lives, and it is significantly more valua
 
 
 
-Chris Walker built his reputation by doing something almost no one else was doing at the time. He built an entire business pipeline through organic LinkedIn content and dark social before
-
-the broader B2B marketing world understood what that meant. His early work on demand generation, the role of organic content in pipeline creation and the limitations of traditional MQL based marketing is some of the most cited thinking in modern B2B marketing. That body of work is still worth reading.
+Chris Walker built his reputation by doing something almost no one else was doing at the time. He built an entire business pipeline through organic LinkedIn content and dark social before broader B2B marketing world understood what that meant. His early work on demand generation, the role of organic content in pipeline creation and the limitations of traditional MQL based marketing is some of the most cited thinking in modern B2B marketing. That body of work is still worth reading.
 
 
 
@@ -1034,9 +984,7 @@ The issue is that Walker's current LinkedIn content has moved significantly away
 
 
 
-His recent posts focus on personal development, mindset, business philosophy and the unconventional operating principles behind his current venture encoded. These are not irrelevant topics, but they are not LinkedIn organic content strategy. A marketer who starts following Chris Walker today, based on his reputation in B2B marketing, will find a feed that is
-
-predominantly about personal growth and consciousness rather than pipeline generation and content strategy.
+His recent posts focus on personal development, mindset, business philosophy and the unconventional operating principles behind his current venture encoded. These are not irrelevant topics, but they are not LinkedIn organic content strategy. A marketer who starts following Chris Walker today, based on his reputation in B2B marketing, will find a feed that is focused about personal growth and consciousness rather than pipeline generation and content strategy.
 
 
 
