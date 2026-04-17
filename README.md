@@ -122,5 +122,37 @@ Chosen because she coined the term "zero-click content", a framework that direct
  
 * All commits were made incrementally throughout the research process rather than in one large push at the end.
 
+
+
+## Assignment 3 - Playbook / SOP
+
+**Status: Completed**
+
+A full Playbook and SOP for LinkedIn Organic Content Strategy for B2B SaaS has been created and saved at `/research/playbook.md`.
+
+### Playbook Structure
+
+The playbook is divided into regular content sections and special analytical sections.
+
+**Content Sections:**
+- Section 1: Foundation - Before You Post Anything
+- Section 2: Content Strategy - What to Post and Why
+- Section 3: Engagement and Distribution
+- Section 4: Measurement - How to Know If It Is Working
+
+**Special Sections:**
+- Where Experts Disagree - 3 examples of genuine disagreement between experts, with a clear position taken on each
+- What I Rejected and Why - 2 ideas from the research that were deliberately excluded, with full reasoning
+- My Original Ideas - 1 original strategic idea not found in any source, with explanation of why it could work
+- Weaknesses of This Playbook - honest account of limitations, untested assumptions and gaps
+- Who I Would NOT Recommend Following and Why - honest assessment of 2 experts from the research list
+
+### Methodology
+
+Every recommendation in the playbook is cited with the author name, exact post URL and date in DD.MM.YYYY format. No claim is made without a direct source from the research collected 
+in Assignment 2.
+
+All 20 LinkedIn posts collected during Assignment 2 were reviewed for usability. Posts that did not directly support LinkedIn organic content strategy recommendations were excluded from citations, regardless of the expert's reputation. This decision is documented in the playbook.
+
  
 
